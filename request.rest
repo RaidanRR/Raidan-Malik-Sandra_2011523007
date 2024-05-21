@@ -1,13 +1,13 @@
 GET http://localhost:8000/
-#Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6NTY1LCJ0eXBlIjoiVCIsImlhdCI6MTY1NDEzMzIwMywiZXhwIjoxNjU0MzkyNDAzfQ.O-xnz_C4UXruwHrTSLmPXkflsWf4_ru3ugh5lmO4mgE
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6NTY1LCJ0eXBlIjoiVCIsImlhdCI6MTY1NDEzMzIwMywiZXhwIjoxNjU0MzkyNDAzfQ.O-xnz_C4UXruwHrTSLmPXkflsWf4_ru3ugh5lmO4mgE
 
 ###
 POST http://localhost:8000/auth/register
 Content-Type: application/json
 
 {
-    "name": "admin",
-    "email" : "admin@unand.ac.id",
+    "name": "raidan",
+    "email" : "raidan@unand.ac.id",
     "password" : "12345",
     "confPassword" : "12345",
     "type": "T"
