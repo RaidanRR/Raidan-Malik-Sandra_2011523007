@@ -6,8 +6,8 @@ POST http://localhost:8000/auth/register
 Content-Type: application/json
 
 {
-    "name": "raidan",
-    "email" : "raidan@unand.ac.id",
+    "name": "admin",
+    "email" : "admin@unand.ac.id",
     "password" : "12345",
     "confPassword" : "12345",
     "type": "T"

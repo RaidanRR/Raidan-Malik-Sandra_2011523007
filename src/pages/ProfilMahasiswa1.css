@@ -1,0 +1,147 @@
+.profil-mahasiswa-1 .container-1 {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 48px;
+  color: #000000;
+}
+.profil-mahasiswa-1 .container-2 {
+  border-radius: 37.5px;
+  background: #D9D9D9;
+  position: relative;
+  margin: 0 51px 788px 0;
+  display: flex;
+  padding: 3px 0.6px 0 0;
+  width: 75px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.profil-mahasiswa-1 .line-9 {
+  background: #000000;
+  transform: rotate(45deg);
+  margin: 0 0px 4px 0;
+  width: 200px;
+  height: 1px;
+}
+.profil-mahasiswa-1 .line-10 {
+  background: #000000;
+  transform: rotate(-44.275deg);
+  width: 200px;
+  height: 1px;
+}
+.profil-mahasiswa-1 .container-4 {
+  background: #FFFFFF;
+  position: relative;
+  margin: 0 0 32px 1.8px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-bottom: 194px;
+  width: 200px;
+  box-sizing: border-box;
+}
+.profil-mahasiswa-1 .nama-mahasiswa {
+  margin: 0 28.4px 10px 28.4px;
+  display: inline-block;
+  align-self: flex-end;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 22px;
+  color: #000000;
+}
+.profil-mahasiswa-1 .nim-mahasiswa {
+  margin: 0 0 17px 7.1px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 20px;
+  color: #000000;
+}
+.profil-mahasiswa-1 .bimbingan-sedang-berjalan {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 20px;
+  color: #000000;
+}
+.profil-mahasiswa-1 .container-5 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.profil-mahasiswa-1 .ellipse-19 {
+  border-radius: 30px;
+  background: #A4A4A4;
+  position: absolute;
+  top: 50%;
+  right: 411px;
+  translate: 0 -50%;
+  width: 60px;
+  height: 60px;
+}
+.profil-mahasiswa-1 .container {
+  position: absolute;
+  top: 50%;
+  right: 424.3px;
+  translate: 0 -50%;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 48px;
+  color: #FFFFFF;
+}
+.profil-mahasiswa-1 .container-3 {
+  border-radius: 50px 50px 0 0;
+  background: rgba(217, 217, 217, 0.8);
+  position: relative;
+  margin-bottom: 52px;
+  display: flex;
+  padding: 52px 0.8px 41px 0;
+  width: 1083px;
+  box-sizing: border-box;
+}
+.profil-mahasiswa-1 .judul-tugas-akhir-dosen-pembimbing-fakultas-departemen-program-strata-semester {
+  margin-right: 30.9px;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 22px;
+  color: #000000;
+}
+.profil-mahasiswa-1 .judul-tugas-akhir-nama-dosen-teknologi-informasi-sistem-informasi-s-17-tujuh {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 22px;
+  color: #000000;
+}
+.profil-mahasiswa-1 .container-1 {
+  margin: 0 100px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.profil-mahasiswa-1 .container {
+  border-radius: 50px;
+  background: #FFFFFF;
+  position: relative;
+  margin-top: 55px;
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 113px;
+  box-sizing: border-box;
+}
+.profil-mahasiswa {
+  background: #A4A4A4;
+  display: flex;
+  flex-direction: row;
+  padding: 53px 0 0 52px;
+  width: 1440px;
+  box-sizing: border-box;
+}

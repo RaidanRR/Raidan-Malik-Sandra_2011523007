@@ -1,0 +1,205 @@
+.pertemuan-selesai-1 .container {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 48px;
+  color: #000000;
+}
+.pertemuan-selesai-1 .container-3 {
+  border-radius: 37.5px;
+  background: #D9D9D9;
+  position: relative;
+  margin-right: 46px;
+  display: flex;
+  padding: 3px 0.6px 0 0;
+  width: 75px;
+  box-sizing: border-box;
+}
+.pertemuan-selesai-1 .pertemuan-ke-x {
+  margin: 17px 0 16px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 28px;
+  color: #000000;
+}
+.pertemuan-selesai-1 .container-6 {
+  margin: 4px 0 2px 0;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.pertemuan-selesai-1 .pertemuan-selesai-1 {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 24px;
+  color: #000000;
+}
+.pertemuan-selesai-1 .container-8 {
+  border-radius: 50px;
+  background: #D9D9D9;
+  position: relative;
+  display: flex;
+  padding: 23px 0 22px 4px;
+  width: 333px;
+  box-sizing: border-box;
+}
+.pertemuan-selesai-1 .container-4 {
+  margin: 0 0 43px 1px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1324px;
+  box-sizing: border-box;
+}
+.pertemuan-selesai-1 .line-67 {
+  background: rgba(0, 0, 0, 0.5);
+  margin-bottom: 75px;
+  width: 1325px;
+  height: 1px;
+}
+.pertemuan-selesai-1 .nama-mahasiswa-tanggal-pertemuan-waktu-pertemuan-tempat-pertemuan {
+  position: relative;
+  margin-right: 1.2px;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 24px;
+  color: #000000;
+}
+.pertemuan-selesai-1 .nama-mahasiswa-dd-mmyyyy-hhmm-wibtempat-pertemuan-yang-diajukan {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 24px;
+  color: #000000;
+}
+.pertemuan-selesai-1 .container-7 {
+  margin: 0 52px 94px 52px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.pertemuan-selesai-1 .bikin-catatan-berdasarkan-pertemuan-hari-ini {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 24px;
+  color: rgba(0, 0, 0, 0.5);
+}
+.pertemuan-selesai-1 .container-2 {
+  border-radius: 25px;
+  border: 1px solid rgba(0, 0, 0, 0.5);
+  position: relative;
+  margin-left: 1px;
+  padding: 163px 51px 280px 51px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.pertemuan-selesai-1 .container {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.pertemuan-selesai-1 .rectangle-118 {
+  border-radius: 25px;
+  border: 1px solid rgba(0, 0, 0, 0.5);
+  position: absolute;
+  left: 57px;
+  top: 229px;
+  right: 58px;
+  height: 226px;
+}
+.pertemuan-selesai-1 .ellipse-28 {
+  border-radius: 25px;
+  background: #FFFFFF;
+  width: 50px;
+  height: 50px;
+}
+.pertemuan-selesai-1 .ellipse-29 {
+  border-radius: 25px;
+  background: #FFFFFF;
+  width: 50px;
+  height: 50px;
+}
+.pertemuan-selesai-1 .ellipse-30 {
+  border-radius: 25px;
+  background: #FFFFFF;
+  width: 50px;
+  height: 50px;
+}
+.pertemuan-selesai-1 .container-5 {
+  margin-top: 2px;
+  display: flex;
+  flex-direction: row;
+  column-gap: 37px;
+  width: 224px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.pertemuan-selesai-1 .ellipse-31 {
+  border-radius: 25px;
+  background: #FFFFFF;
+  margin-right: 33px;
+  width: 50px;
+  height: 50px;
+}
+.pertemuan-selesai-1 .ellipse-32 {
+  border-radius: 25px;
+  background: #FFFFFF;
+  margin-right: 33px;
+  width: 50px;
+  height: 50px;
+}
+.pertemuan-selesai-1 .ellipse-33 {
+  border-radius: 25px;
+  background: #FFFFFF;
+  margin-right: 28px;
+  width: 50px;
+  height: 50px;
+}
+.pertemuan-selesai-1 .ellipse-35 {
+  border-radius: 25px;
+  background: #FFFFFF;
+  margin-right: 24px;
+  width: 50px;
+  height: 50px;
+}
+.pertemuan-selesai-1 .ellipse-34 {
+  border-radius: 25px;
+  background: #FFFFFF;
+  width: 50px;
+  height: 50px;
+}
+.pertemuan-selesai-1 .container-1 {
+  margin-bottom: 2px;
+  display: flex;
+  flex-direction: row;
+  width: 368px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.pertemuan-selesai-1 .container-9 {
+  border-radius: 25px 25px 0 0;
+  background: #D9D9D9;
+  position: absolute;
+  left: 57px;
+  right: 58px;
+  bottom: 406px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 33px 32px 35px 51px;
+  box-sizing: border-box;
+}
+.pertemuan-selesai {
+  background: #FFFFFF;
+  padding: 60px 58px 47px 57px;
+  width: 1440px;
+  box-sizing: border-box;
+}

@@ -1,0 +1,393 @@
+.penjadwalan-3 .rectangle-36 {
+  border-radius: 25px 25px 0 0;
+  background: #D9D9D9;
+  position: absolute;
+  left: 70px;
+  top: 265px;
+  right: 54px;
+  height: 84px;
+}
+.penjadwalan-3 .container {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 48px;
+  color: #000000;
+}
+.penjadwalan-3 .container-6 {
+  border-radius: 37.5px;
+  background: #D9D9D9;
+  position: relative;
+  margin: 0 77px 2px 0;
+  display: flex;
+  padding: 3px 0.6px 0 0;
+  width: 75px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.penjadwalan-3 .buat-janji {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 24px;
+  color: #000000;
+}
+.penjadwalan-3 .container-11 {
+  border-radius: 50px;
+  border: 1px solid #000000;
+  position: relative;
+  margin: 2px 50px 0 0;
+  display: flex;
+  padding: 19px 0 20px 2.6px;
+  width: 245px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.penjadwalan-3 .hari-ini {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 24px;
+  color: #000000;
+}
+.penjadwalan-3 .container-4 {
+  border-radius: 50px;
+  border: 1px solid #000000;
+  position: relative;
+  margin: 0 50px 2px 0;
+  display: flex;
+  padding: 21px 0 18px 2.6px;
+  width: 180px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.penjadwalan-3 .mendatang {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 24px;
+  color: #FFFFFF;
+}
+.penjadwalan-3 .container-1 {
+  border-radius: 50px;
+  background: rgba(0, 0, 0, 0.35);
+  position: relative;
+  margin: 2px 50px 0 0;
+  display: flex;
+  padding: 19px 0 20px 8.1px;
+  width: 246px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.penjadwalan-3 .riwayat-pertemuan {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 24px;
+  color: #000000;
+}
+.penjadwalan-3 .container-12 {
+  border-radius: 50px;
+  border: 1px solid #000000;
+  position: relative;
+  margin-bottom: 2px;
+  display: flex;
+  padding: 19px 2.3px 20px 0;
+  width: 323px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.penjadwalan-3 .container-10 {
+  margin: 0 21px 49px 5px;
+  display: flex;
+  flex-direction: row;
+  width: 1296px;
+  box-sizing: border-box;
+}
+.penjadwalan-3 .line-15 {
+  background: rgba(0, 0, 0, 0.5);
+  margin: 0 22px 68px 0;
+  width: 1300px;
+  height: 1px;
+}
+.penjadwalan-3 .pertemuan {
+  margin-bottom: 92px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 22px;
+  color: #000000;
+}
+.penjadwalan-3 .x {
+  margin: 0 0 150px 14.7px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 22px;
+  color: #000000;
+}
+.penjadwalan-3 .x-1 {
+  margin-left: 28.7px;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 22px;
+  color: #000000;
+}
+.penjadwalan-3 .container-3 {
+  margin: 29px 33px 90px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.penjadwalan-3 .line-22 {
+  background: rgba(80, 80, 80, 0.5);
+  margin: 0 55px 0px 0;
+  width: 1px;
+  height: 460px;
+}
+.penjadwalan-3 .nama-dosen {
+  margin: 0 13.3px 90px 10px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 22px;
+  color: #000000;
+}
+.penjadwalan-3 .nama-dosen-1 {
+  margin: 0 7px 150px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 22px;
+  color: #000000;
+}
+.penjadwalan-3 .nama-dosen-2 {
+  margin-left: 7px;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 22px;
+  color: #000000;
+}
+.penjadwalan-3 .container-9 {
+  margin: 31px 71.5px 90px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.penjadwalan-3 .tempat {
+  margin: 0 1.7px 92px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 22px;
+  color: #000000;
+}
+.penjadwalan-3 .nama-tempat {
+  margin: 0 7px 150px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 22px;
+  color: #000000;
+}
+.penjadwalan-3 .nama-tempat-1 {
+  margin-left: 7px;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 22px;
+  color: #000000;
+}
+.penjadwalan-3 .container-15 {
+  margin: 29px 41.1px 90px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.penjadwalan-3 .line-25 {
+  background: rgba(80, 80, 80, 0.5);
+  margin: 0px 32px 0px 0;
+  width: 1px;
+  height: 460px;
+}
+.penjadwalan-3 .waktu {
+  margin: 0 6.6px 73px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 22px;
+  color: #000000;
+}
+.penjadwalan-3 .dd-mmyyyy-hhmm {
+  margin: 0 7px 117px 0;
+  display: inline-block;
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 22px;
+  color: #000000;
+}
+.penjadwalan-3 .dd-mmyyyy-hhmm-1 {
+  margin-left: 7px;
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 22px;
+  color: #000000;
+}
+.penjadwalan-3 .container-7 {
+  margin: 32px 11.5px 73px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.penjadwalan-3 .line-26 {
+  background: rgba(80, 80, 80, 0.5);
+  margin: 0 52px 0px 0;
+  width: 1px;
+  height: 460px;
+}
+.penjadwalan-3 .status {
+  margin: 0 12.6px 89px 9px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 22px;
+  color: #000000;
+}
+.penjadwalan-3 .disetujui {
+  margin: 0 0.4px 131px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 22px;
+  color: #000000;
+}
+.penjadwalan-3 .belum-disetujui {
+  margin-left: 0.4px;
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 22px;
+  color: #000000;
+}
+.penjadwalan-3 .container-8 {
+  margin: 32px 36.9px 76px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.penjadwalan-3 .line-27 {
+  background: rgba(80, 80, 80, 0.5);
+  margin: 0px 29.5px 0 0;
+  width: 1px;
+  height: 460px;
+}
+.penjadwalan-3 .aksi {
+  margin: 0 2.3px 74px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 22px;
+  color: #000000;
+}
+.penjadwalan-3 .chat-dosen {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 20px;
+  color: #FFFFFF;
+}
+.penjadwalan-3 .container-13 {
+  border-radius: 20px;
+  background: #C3C0C0;
+  position: relative;
+  margin: 0 0 124px 1px;
+  display: flex;
+  padding: 15px 19.4px 15px 16.4px;
+  box-sizing: border-box;
+}
+.penjadwalan-3 .chat-dosen-1 {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 20px;
+  color: #FFFFFF;
+}
+.penjadwalan-3 .container {
+  border-radius: 20px;
+  background: #C3C0C0;
+  position: relative;
+  margin-right: 1px;
+  display: flex;
+  padding: 15px 19.4px 15px 16.4px;
+  box-sizing: border-box;
+}
+.penjadwalan-3 .container-5 {
+  margin: 32px 0 77px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.penjadwalan-3 .container-2 {
+  border-radius: 25px;
+  border: 1px solid rgba(0, 0, 0, 0.5);
+  position: relative;
+  margin-left: 5px;
+  display: flex;
+  flex-direction: row;
+  padding: 0px 22px 0 29px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.penjadwalan-3 .container-14 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.penjadwalan-3 .line-24 {
+  background: rgba(80, 80, 80, 0.5);
+  position: absolute;
+  left: 507px;
+  top: 264px;
+  width: 1px;
+  height: 460px;
+}
+.penjadwalan-3 .line-28 {
+  background: rgba(0, 0, 0, 0.5);
+  position: absolute;
+  left: 70px;
+  right: 54px;
+  bottom: 504px;
+  height: 1px;
+}
+.penjadwalan-3 {
+  background: #FFFFFF;
+  display: flex;
+  padding: 70px 54px 0 64px;
+  width: 1440px;
+  box-sizing: border-box;
+}

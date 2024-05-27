@@ -1,0 +1,265 @@
+.faq .container {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 48px;
+  color: #000000;
+}
+.faq .container-6 {
+  border-radius: 37.5px;
+  background: #D9D9D9;
+  position: relative;
+  margin-right: 52px;
+  display: flex;
+  padding: 3px 0.6px 0 0;
+  width: 75px;
+  box-sizing: border-box;
+}
+.faq .frequently-asked-questions {
+  margin: 15px 0 12px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 32px;
+  color: #000000;
+}
+.faq .container-8 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.faq .desain-tanpa-judul-381 {
+  background: url('assets/images/DesainTanpaJudul381.png') 50% / cover no-repeat;
+  margin: 3px 0 7px 0;
+  width: 65px;
+  height: 65px;
+}
+.faq .container-2 {
+  margin: 0 80px 32px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1244px;
+  box-sizing: border-box;
+}
+.faq .line-15 {
+  background: rgba(0, 0, 0, 0.5);
+  margin: 0 12px 56px 12px;
+  width: 1300px;
+  height: 1px;
+}
+.faq .cari-pertanyaan-disini {
+  margin: 16px 16.5px 18px 0;
+  display: inline-block;
+  width: 1085.5px;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 22px;
+  color: rgba(80, 80, 80, 0.65);
+}
+.faq .line-22 {
+  background: rgba(0, 0, 0, 0.5);
+  margin-right: 63px;
+  width: 1px;
+  height: 67px;
+}
+.faq .container-5 {
+  width: 39px;
+  height: 1px;
+}
+.faq .container-4 {
+  border-radius: 25px;
+  background: #D9D9D9;
+  position: relative;
+  margin: 8px 0 9px 0;
+  display: flex;
+  padding: 9px 5px 0 6px;
+  width: 50px;
+  height: 50px;
+  box-sizing: border-box;
+}
+.faq .container {
+  display: flex;
+  flex-direction: row;
+  width: 114px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.faq .container-3 {
+  border-radius: 50px;
+  border: 1px solid rgba(0, 0, 0, 0.5);
+  position: relative;
+  margin: 0 0 58px 24px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 2px 62px 0 22px;
+  width: 1300px;
+  box-sizing: border-box;
+}
+.faq .pertanyaan-yang-sering-ditanyakan {
+  margin: 3px 16.5px 10px 0;
+  display: inline-block;
+  width: 1191.2px;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 22px;
+  color: #000000;
+}
+.faq .image-5 {
+  background: url('assets/images/Image5.png') 50% / cover no-repeat;
+  width: 46px;
+  height: 46px;
+}
+.faq .container-7 {
+  margin: 0 32px 22px 38.3px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1253.7px;
+  box-sizing: border-box;
+}
+.faq .apa-manfaat-dari-menggunakan-website-monitoring-ta-mahasiswa {
+  margin: 0 18px 19px 18px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 22px;
+  color: #000000;
+}
+.faq .line-28 {
+  background: rgba(0, 0, 0, 0.5);
+  margin-bottom: 19px;
+  width: 1298px;
+  height: 1px;
+}
+.faq .bagaimana-cara-menggunakan-website-monitoring-ini {
+  margin: 0 18.2px 16px 18.2px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 22px;
+  color: #000000;
+}
+.faq .line-30 {
+  background: rgba(0, 0, 0, 0.5);
+  margin-bottom: 19px;
+  width: 1298px;
+  height: 1px;
+}
+.faq .apakah-saya-dapat-mengakses-website-monitoring-ini-dari-perangkat-seluler {
+  margin: 0 18.4px 18px 18.4px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 22px;
+  color: #000000;
+}
+.faq .line-31 {
+  background: rgba(0, 0, 0, 0.5);
+  margin-bottom: 20px;
+  width: 1298px;
+  height: 1px;
+}
+.faq .apakah-saya-mendapatkan-notifikasi-revisikoreksi-dari-dosen-pembimbing {
+  margin: 0 18.1px 24px 18.1px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 22px;
+  color: #000000;
+}
+.faq .line-32 {
+  background: rgba(0, 0, 0, 0.5);
+  margin-bottom: 14px;
+  width: 1298px;
+  height: 1px;
+}
+.faq .apakah-saya-dapat-mengakses-materi-referensi-untuk {
+  margin: 0 18.1px 19px 18.1px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 22px;
+  color: #000000;
+}
+.faq .line-33 {
+  background: rgba(0, 0, 0, 0.5);
+  margin-bottom: 16px;
+  width: 1298px;
+  height: 1px;
+}
+.faq .apakah-saya-dapat-mengubah-jadwal-pertemuan-dengan-dosen-pembimbing {
+  margin: 0 18.2px 19px 18.2px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 22px;
+  color: #000000;
+}
+.faq .line-34 {
+  background: rgba(0, 0, 0, 0.5);
+  margin-bottom: 16px;
+  width: 1298px;
+  height: 1px;
+}
+.faq .apakah-progres-revisi-ta-saya-tersimpan {
+  margin: 0 18.5px 20px 18.5px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 22px;
+  color: #000000;
+}
+.faq .line-35 {
+  background: rgba(0, 0, 0, 0.5);
+  margin-bottom: 17px;
+  width: 1298px;
+  height: 1px;
+}
+.faq .bagaimana-cara-melihat-riwayat-revisi-ta {
+  margin: 0 18.1px;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 22px;
+  color: #000000;
+}
+.faq .container-1 {
+  border-radius: 30px;
+  background: #D9D9D9;
+  position: relative;
+  margin: 0 6px 0 20px;
+  display: flex;
+  flex-direction: column;
+  padding: 27px 0 19px 0;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.faq {
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 67px 58px 25px 58px;
+  width: 1440px;
+  box-sizing: border-box;
+}

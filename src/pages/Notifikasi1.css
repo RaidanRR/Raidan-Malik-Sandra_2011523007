@@ -1,0 +1,263 @@
+.notifikasi-1 .container {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 48px;
+  color: #000000;
+}
+.notifikasi-1 .container-7 {
+  border-radius: 37.5px;
+  background: #D9D9D9;
+  position: relative;
+  display: flex;
+  padding: 3px 0.6px 0 0;
+  width: 75px;
+  box-sizing: border-box;
+}
+.notifikasi-1 .progress-saya {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 24px;
+  color: #FFFFFF;
+}
+.notifikasi-1 .container-2 {
+  border-radius: 50px;
+  background: #A4A4A4;
+  position: relative;
+  display: flex;
+  padding: 20px 0.7px 19px 0;
+  width: 453px;
+  box-sizing: border-box;
+}
+.notifikasi-1 .penjadwalan {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 24px;
+  color: #000000;
+}
+.notifikasi-1 .container-12 {
+  border-radius: 50px;
+  border: 1px solid #000000;
+  position: relative;
+  display: flex;
+  padding: 20px 0.8px 19px 0;
+  width: 453px;
+  box-sizing: border-box;
+}
+.notifikasi-1 .container-1 {
+  margin-bottom: 47px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 1171px;
+  box-sizing: border-box;
+}
+.notifikasi-1 .line-15 {
+  background: rgba(0, 0, 0, 0.5);
+  margin: 0 0 46px 6px;
+  width: 1300px;
+  height: 1px;
+}
+.notifikasi-1 .progress-ke-xtelah-dikoreksi-oleh-dosen-pembimbing {
+  margin-right: 37px;
+  width: 927px;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 24px;
+  color: #000000;
+}
+.progress-ke-xtelah-dikoreksi-oleh-dosen-pembimbing-sub13 {
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 1.333;
+}
+.progress-ke-xtelah-dikoreksi-oleh-dosen-pembimbing {
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 25px;
+  line-height: 1.333;
+}
+.notifikasi-1 .lihat-detail {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 20px;
+  color: #000000;
+}
+.notifikasi-1 .container-5 {
+  border-radius: 20px;
+  border: 1px solid #000000;
+  position: relative;
+  margin: 8px 0 1px 0;
+  display: flex;
+  padding: 18px 0.6px 17px 0;
+  width: 167px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.notifikasi-1 .container-4 {
+  border-radius: 25px;
+  background: rgba(217, 217, 217, 0.5);
+  position: relative;
+  margin: 0 5px 49px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 47px 88px 54px 82px;
+  width: 1301px;
+  box-sizing: border-box;
+}
+.notifikasi-1 .yang-sudah-dibuka {
+  margin-right: 15px;
+  width: 215px;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 20px;
+  color: rgba(0, 0, 0, 0.5);
+}
+.notifikasi-1 .line-17 {
+  background: rgba(0, 0, 0, 0.5);
+  margin: 15px 0 14px 0;
+  width: 1053px;
+  height: 1px;
+}
+.notifikasi-1 .container-9 {
+  margin: 0 17px 104px 6px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1283px;
+  box-sizing: border-box;
+}
+.notifikasi-1 .lihat-detail-1 {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 20px;
+  color: #000000;
+}
+.notifikasi-1 .container-11 {
+  border-radius: 20px;
+  border: 1px solid #000000;
+  position: relative;
+  margin: 0 93px 157px 93px;
+  display: flex;
+  padding: 18px 0.6px 17px 0;
+  width: 167px;
+  box-sizing: border-box;
+}
+.notifikasi-1 .lihat-detail-2 {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 20px;
+  color: #000000;
+}
+.notifikasi-1 .container-10 {
+  border-radius: 20px;
+  border: 1px solid #000000;
+  position: relative;
+  margin: 0 93px;
+  display: flex;
+  padding: 18px 0.6px 17px 0;
+  width: 167px;
+  box-sizing: border-box;
+}
+.notifikasi-1 .container-6 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  width: 1306px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.notifikasi-1 .container-1 {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 24px;
+  color: #000000;
+}
+.notifikasi-1 .container-3 {
+  border-radius: 27.5px;
+  background: #D9D9D9;
+  position: absolute;
+  top: 46px;
+  right: 184px;
+  display: flex;
+  padding: 10px 0 9px 0px;
+  width: 55px;
+  box-sizing: border-box;
+}
+.progress-ke-xreminder-hari-ini-deadline-revisi-ya-sub13 {
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 1.333;
+}
+.progress-ke-xreminder-hari-ini-deadline-revisi-ya {
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 25px;
+  line-height: 1.333;
+}
+.notifikasi-1 .progress-ke-xreminder-hari-ini-deadline-revisi-ya {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 24px;
+  color: #000000;
+}
+.notifikasi-1 .container-8 {
+  border-radius: 25px;
+  border: 1px solid rgba(0, 0, 0, 0.5);
+  position: absolute;
+  left: 63px;
+  right: 76px;
+  bottom: 303px;
+  padding: 47px 77px 54px 77px;
+  box-sizing: border-box;
+}
+.progress-ke-xtelah-dikoreksi-oleh-dosen-pembimbing-1 {
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 25px;
+  line-height: 1.333;
+}
+.notifikasi-1 .progress-ke-xtelah-dikoreksi-oleh-dosen-pembimbing-1 {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 24px;
+  color: #000000;
+}
+.progress-ke-xtelah-dikoreksi-oleh-dosen-pembimbing-1-sub13 {
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 1.333;
+}
+.notifikasi-1 .container {
+  border-radius: 25px;
+  border: 1px solid rgba(0, 0, 0, 0.5);
+  position: absolute;
+  left: 58px;
+  right: 81px;
+  bottom: 81px;
+  padding: 47px 82px 54px 82px;
+  box-sizing: border-box;
+}
+.notifikasi-1 {
+  background: #FFFFFF;
+  display: flex;
+  padding: 74px 76px 136px 58px;
+  width: 1440px;
+  box-sizing: border-box;
+}

@@ -1,0 +1,222 @@
+.progress-1 .container {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 48px;
+  color: #000000;
+}
+.progress-1 .container-11 {
+  border-radius: 37.5px;
+  background: #D9D9D9;
+  position: relative;
+  display: flex;
+  padding: 3px 0.6px 0 0;
+  width: 75px;
+  box-sizing: border-box;
+}
+.progress-1 .buat-progress {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 24px;
+  color: #FFFFFF;
+}
+.progress-1 .container-1 {
+  border-radius: 50px;
+  background: #A4A4A4;
+  position: relative;
+  display: flex;
+  padding: 20px 0 19px 20.8px;
+  width: 303px;
+  box-sizing: border-box;
+}
+.progress-1 .deadline-revisi {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 24px;
+  color: #000000;
+}
+.progress-1 .container-6 {
+  border-radius: 50px;
+  border: 1px solid #000000;
+  position: relative;
+  display: flex;
+  padding: 20px 2px 19px 0;
+  width: 308px;
+  box-sizing: border-box;
+}
+.progress-1 .riwayat-progress {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 24px;
+  color: #000000;
+}
+.progress-1 .container-9 {
+  border-radius: 50px;
+  border: 1px solid #000000;
+  position: relative;
+  display: flex;
+  padding: 20px 0 19px 7.8px;
+  width: 295px;
+  box-sizing: border-box;
+}
+.progress-1 .container-3 {
+  margin-bottom: 47px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 1216px;
+  box-sizing: border-box;
+}
+.progress-1 .line-15 {
+  background: rgba(0, 0, 0, 0.5);
+  margin: 0 0 36px 6px;
+  width: 1300px;
+  height: 1px;
+}
+.progress-1 .dosen-pembimbing {
+  margin: 20px 65px 19px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 24px;
+  color: #000000;
+}
+.progress-1 .nama-dosen-terisi-otomatis {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 22px;
+  color: #000000;
+}
+.progress-1 .container-10 {
+  border-radius: 50px;
+  border: 1px solid rgba(0, 0, 0, 0.5);
+  position: relative;
+  padding: 20px 50px 22px 50px;
+  width: 870px;
+  box-sizing: border-box;
+}
+.progress-1 .container-5 {
+  margin: 0 57px 47px 72px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.progress-1 .subjek-dokumen {
+  margin: 22px 67px 17px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 24px;
+  color: #000000;
+}
+.progress-1 .rectangle-21 {
+  border-radius: 50px;
+  border: 1px solid rgba(0, 0, 0, 0.5);
+  width: 870px;
+  height: 75px;
+}
+.progress-1 .container {
+  margin: 0 57px 47px 57px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.progress-1 .upload-file {
+  margin: 23px 62.2px 16px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 24px;
+  color: #000000;
+}
+.progress-1 .rectangle-23 {
+  border-radius: 10px;
+  background: #D9D9D9;
+  position: absolute;
+  left: 53px;
+  top: 17px;
+  width: 185px;
+  height: 41px;
+}
+.progress-1 .pdfwordzip {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 16px;
+  color: #000000;
+}
+.progress-1 .container-8 {
+  border-radius: 50px;
+  border: 1px solid rgba(0, 0, 0, 0.5);
+  position: relative;
+  display: flex;
+  padding: 26px 579.5px 25px 0;
+  width: 870px;
+  box-sizing: border-box;
+}
+.progress-1 .container-4 {
+  margin: 0 57px 46px 57px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.progress-1 .pesan-untuk-dosen {
+  margin: 13px 67.2px 86px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 24px;
+  color: #000000;
+}
+.progress-1 .rectangle-18 {
+  border-radius: 25px;
+  border: 1px solid rgba(0, 0, 0, 0.5);
+  width: 865px;
+  height: 135px;
+}
+.progress-1 .container-2 {
+  margin: 0 57px 52px 82px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.progress-1 .submit {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 24px;
+  color: #000000;
+}
+.progress-1 .container-7 {
+  border-radius: 50px;
+  background: #D9D9D9;
+  position: relative;
+  margin: 0 57px;
+  display: flex;
+  padding: 18px 0 18px 5.6px;
+  width: 229px;
+  box-sizing: border-box;
+}
+.progress-1 {
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  padding: 74px 76px 167px 58px;
+  width: 1440px;
+  box-sizing: border-box;
+}

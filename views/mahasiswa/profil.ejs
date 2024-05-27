@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="UTF-8">
+    <title>Profil</title>
+    <link rel="stylesheet" href="/css/style-mahasiswa.css">
+    <link href="/vendor/sweetalert2.all.min.css" rel="stylesheet">
+    <script src="/vendor/sweetalert2.all.min.js"></script>
+    <link href='https://unpkg.com/boxicons@2.0.7/css/boxicons.min.css' rel='stylesheet'>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/simple-datatables@latest/dist/style.css" rel="stylesheet" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  </head>
+  <body>
+    <%- include('sidebar'); -%>
+
+    <div id="container">
+      <div class="jumbotron">
+        <br />
+        <h4>Profil</h4>
+        <div class="profil-info">
+          <div class="profil-field">
+            <label for="foto">Foto Profil:</label>
+            <img src="<%= userData.foto %>" alt="Foto Profil">
+          </div>
+          <div class="profil-field">
+            <label for="nama">Nama Mahasiswa:</label>
+            <span><%= userData.nama %></span>
+          </div>
+          <div class="profil-field">
+            <label for="nim">NIM Mahasiswa:</label>
+            <span><%= userData.nim %></span>
+          </div>
+          <div class="profil-field">
+            <label for="judul">Judul Tugas Akhir:</label>
+            <span><%= userData.judul %></span>
+          </div>
+          <div class="profil-field">
+            <label for="dosen">Dosen Pembimbing:</label>
+            <span><%= userData.dosen %></span>
+          </div>
+          <div class="profil-field">
+            <label for="fakultas">Fakultas:</label>
+            <span><%= userData.fakultas %></span>
+          </div>
+          <div class="profil-field">
+            <label for="jurusan">Jurusan:</label>
+            <span><%= userData.jurusan %></span>
+          </div>
+          <div class="profil-field">
+            <label for="prodi">Program Studi:</label>
+            <span><%= userData.prodi %></span>
+          </div>
+          <div class="profil-field">
+            <label for="semester">Semester:</label>
+            <span><%= userData.semester %></span>
+          </div>
+        </div>
+        <a href="/mahasiswa/profil-edit" class="btn btn-primary">Edit Profil</a>
+      </div>
+    </div>
+
+    <%- include('../partials/footer'); -%>
+  </body>
+</html>

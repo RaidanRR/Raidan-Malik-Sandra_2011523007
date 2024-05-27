@@ -1,0 +1,284 @@
+.mengkoreksi-1 .container {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 48px;
+  color: #000000;
+}
+.mengkoreksi-1 .container-9 {
+  border-radius: 37.5px;
+  background: #D9D9D9;
+  position: relative;
+  margin-right: 52px;
+  display: flex;
+  padding: 3px 0.6px 0 0;
+  width: 75px;
+  box-sizing: border-box;
+}
+.mengkoreksi-1 .progress-ke-x {
+  margin: 15px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 30px;
+  color: #000000;
+}
+.mengkoreksi-1 .container-8 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.mengkoreksi-1 .ddmmyyyy-hhmm-wib {
+  margin: 2px 0 7px 0;
+  display: inline-block;
+  text-align: right;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 22px;
+  color: #000000;
+}
+.mengkoreksi-1 .container-4 {
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 67px 80px 32px 58px;
+  width: 1440px;
+  box-sizing: border-box;
+}
+.mengkoreksi-1 .line-15 {
+  background: rgba(0, 0, 0, 0.5);
+  margin: 0 70px 35px 70px;
+  width: 1300px;
+  height: 1px;
+}
+.mengkoreksi-1 .nama-mahasiswa-judul-progress {
+  margin-right: 25.3px;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 22px;
+  color: #000000;
+}
+.mengkoreksi-1 .nim-nama-mahasiswa-subjek-dokumen-yang-disubmit {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 22px;
+  color: #000000;
+}
+.mengkoreksi-1 .container-12 {
+  border-radius: 25px;
+  border: 1px solid rgba(0, 0, 0, 0.5);
+  position: relative;
+  margin-bottom: 34px;
+  display: flex;
+  flex-direction: row;
+  padding: 28px 0 39px 39px;
+  width: 1300px;
+  box-sizing: border-box;
+}
+.mengkoreksi-1 .line-85 {
+  background: rgba(0, 0, 0, 0.5);
+  position: absolute;
+  right: 26px;
+  bottom: 0px;
+  width: 1px;
+  height: 415.2px;
+}
+.mengkoreksi-1 .xy {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 20px;
+  color: #000000;
+}
+.mengkoreksi-1 .container {
+  border-radius: 10px;
+  background: #FFFFFF;
+  position: relative;
+  margin-right: 12px;
+  display: flex;
+  padding: 6px 14.4px 4px 20px;
+  box-sizing: border-box;
+}
+.mengkoreksi-1 .koreksi {
+  margin: 2px 9.2px 1px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 18px;
+  color: #000000;
+}
+.mengkoreksi-1 .pena {
+  background: url('assets/images/Pena.png') 50% / cover no-repeat;
+  width: 30px;
+  height: 30px;
+}
+.mengkoreksi-1 .container-2 {
+  border-radius: 10px;
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  padding: 5px 16px 5px 0;
+  width: 150px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.mengkoreksi-1 .container-5 {
+  border-radius: 25px 25px 0 0;
+  background: #C3C0C0;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  padding: 17px 0 15px 0;
+  width: 1297px;
+  box-sizing: border-box;
+}
+.mengkoreksi-1 .bab-ii {
+  margin: 33px 11.5px 0 0;
+  display: inline-block;
+  width: 636.5px;
+  overflow-wrap: break-word;
+  font-family: 'Times New Roman', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 20px;
+  color: #000000;
+}
+.mengkoreksi-1 .rectangle-132 {
+  background: #D9D9D9;
+  position: relative;
+  margin-bottom: 3px;
+  width: 26px;
+  height: 53px;
+}
+.mengkoreksi-1 .container-10 {
+  margin: 0 1px 13px 1px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 674px;
+  box-sizing: border-box;
+}
+.mengkoreksi-1 .lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-proin-convallis-sapien-sem-ut-pretium-augue-vestibulum-quis-sed-pharetra-justo-neque-vitae-molestie-purus-viverra-in-sed-gravida-mauris-ut-dictum-dictum-phasellus-quis-lobortis-eros-quis-mollis-odio-ut-dui-ligula-luctus-ut-ipsum-vel-faucibus-tristique-dui-cras-risus-augue-condimentum-at-consequat-id-semper-id-nunc-aenean-accumsan-tortor-arhoncus-facilisis-nam-dignissim-leo-in-eleifend-dictum-ut-tempor-semper-tellus-mollis-cursus-in-hendrerit-aest-eget-sagittis-curabitur-porta-tortor-sit-amet-tincidunt-elementum-aenean-volutpat-dictum-odio-quis-sollicitudin-velit-commodo-apellentesque-vitae-ornare-sapien-donec-in-auctor-libero-nulla-lacinia-egestas-vestibulum-vestibulum-consequat-tellus-anulla-condimentum-rutrum-nulla-luctus-sapien-non-velit-aliquam-quis-pretium-ipsum-hendrerit-suspendisse-risus-diam-tincidunt-sed-justo-et-molestie-congue-risus-integer-at-enim-dignissim-tincidunt-sem-sed-semper-mi-etiam-vitae-lobortis-tortor-nulla-tincidunt-massa-sapien-sed-venenatis-ipsum-laoreet-id-vestibulum-dictum-risus-nec-nulla-scelerisque-mollis-lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-nisi-risus-dignissim-in-mauris-eget-tempor-sodales-leo-phasellus-in-nibh-libero-nullam-suscipit-purus-in-dui-facilisis-scelerisque-nulla-nec-gravida-dolor-nullam-quis-nunc-vel-mauris-auctor-vulputate-quisque-pulvinar-lectus-eget-metus-malesuada-pellentesque-phasellus-pellentesque-luctus-dui-vel-ornare-est-convallis-eu-nunc-dictum-vehicula-elementum-donec-vel-odio-sagittis-vulputate-est-eu-semper-turpis-suspendisse-elementum-pharetra-elit-in-feugiat {
+  margin: 0 77.7px 0 47px;
+  overflow-wrap: break-word;
+  font-family: 'Times New Roman', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 20px;
+  color: #000000;
+}
+.mengkoreksi-1 .container-11 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  box-sizing: border-box;
+}
+.mengkoreksi-1 .container-1 {
+  border-radius: 25px;
+  border: 1px solid rgba(0, 0, 0, 0.5);
+  position: relative;
+  margin: 0 0 25.9px 3px;
+  display: flex;
+  padding-bottom: 70.1px;
+  box-sizing: border-box;
+}
+.mengkoreksi-1 .line-31 {
+  background: #000000;
+  transform: rotate(-51.52deg);
+  margin: 0 0px 5px 6px;
+  width: 31px;
+  height: 1px;
+}
+.mengkoreksi-1 .line-30 {
+  background: #000000;
+  transform: rotate(37.117deg);
+  width: 37px;
+  height: 1px;
+}
+.mengkoreksi-1 .group-1 {
+  border-radius: 25px;
+  background: rgba(0, 0, 0, 0.35);
+  position: relative;
+  margin-right: 22px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 6px 9px 37px 4px;
+  width: 50px;
+  box-sizing: border-box;
+}
+.mengkoreksi-1 .nim-nama-mahasiswa {
+  margin: 14px 0 6px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 20px;
+  color: #000000;
+}
+.mengkoreksi-1 .container-3 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.mengkoreksi-1 .pesan-mahasiswa {
+  margin: 9px 0 14px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 18px;
+  color: #000000;
+}
+.mengkoreksi-1 .container-6 {
+  margin: 0 44.6px 33px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1201px;
+  box-sizing: border-box;
+}
+.mengkoreksi-1 .lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-proin-convallis-sapien-sem-ut-pretium-augue-vestibulum-quis-sed-pharetra-justo-neque-vitae-molestie-purus-viverra-in {
+  margin-left: 9px;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 20px;
+  color: #000000;
+}
+.mengkoreksi-1 .container-7 {
+  border-radius: 25px;
+  border: 1px solid rgba(0, 0, 0, 0.5);
+  background: #FFFFFF;
+  position: relative;
+  margin-left: 9px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 24px 3.4px 38px 42px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.mengkoreksi-1 .frame-3 {
+  margin: 0 70px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.mengkoreksi-1 {
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 1440px;
+  box-sizing: border-box;
+}

@@ -1,0 +1,292 @@
+.chat-mahasiswa .container {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 48px;
+  color: #000000;
+}
+.chat-mahasiswa .container-4 {
+  border-radius: 37.5px;
+  background: #D9D9D9;
+  position: relative;
+  margin-right: 52px;
+  display: flex;
+  padding: 3px 0.6px 0 0;
+  width: 75px;
+  box-sizing: border-box;
+}
+.chat-mahasiswa .chat {
+  margin: 15px 0 18px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 28px;
+  color: #000000;
+}
+.chat-mahasiswa .container-3 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.chat-mahasiswa .cari-berdasarkan-nama-mahasiswa-atau-nim {
+  margin: 19px 16.5px 15px 0;
+  display: inline-block;
+  width: 564.5px;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 22px;
+  color: rgba(80, 80, 80, 0.65);
+}
+.chat-mahasiswa .line-22 {
+  background: rgba(0, 0, 0, 0.5);
+  margin-right: 51px;
+  width: 1px;
+  height: 67px;
+}
+.chat-mahasiswa .line-24 {
+  background: #000000;
+  transform: rotate(-40.732deg);
+  margin-left: 2px;
+  width: 36.8px;
+  height: 1px;
+}
+.chat-mahasiswa .line-23 {
+  background: #000000;
+  transform: rotate(44.17deg);
+  margin-right: 3.8px;
+  width: 35px;
+  height: 1px;
+}
+.chat-mahasiswa .container-7 {
+  border-radius: 25px;
+  background: #D9D9D9;
+  position: relative;
+  margin: 9px 0 8px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 9.3px 6.2px 39px 5px;
+  width: 50px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.chat-mahasiswa .container-13 {
+  display: flex;
+  flex-direction: row;
+  width: 102px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.chat-mahasiswa .container-11 {
+  border-radius: 50px;
+  border: 1px solid rgba(0, 0, 0, 0.5);
+  position: relative;
+  margin-bottom: 6px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 1px 59px 1px 36px;
+  width: 778px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.chat-mahasiswa .container-2 {
+  margin-bottom: 32px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1312px;
+  box-sizing: border-box;
+}
+.chat-mahasiswa .line-15 {
+  background: rgba(0, 0, 0, 0.5);
+  margin: 0 0 47px 12px;
+  width: 1300px;
+  height: 1px;
+}
+.chat-mahasiswa .ellipse-23 {
+  border-radius: 40px;
+  background: #D9D9D9;
+  margin-right: 35px;
+  width: 80px;
+  height: 80px;
+}
+.chat-mahasiswa .nim-nama-mahasiswa {
+  margin-bottom: 7px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 24px;
+  color: #000000;
+}
+.chat-mahasiswa .previews-chat {
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 20px;
+  color: #000000;
+}
+.chat-mahasiswa .container-1 {
+  margin-bottom: 7px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.chat-mahasiswa .container-8 {
+  margin: 0 47px 47px 47px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.chat-mahasiswa .line-16 {
+  background: rgba(0, 0, 0, 0.5);
+  margin: 0 0 49px 12px;
+  width: 1300px;
+  height: 1px;
+}
+.chat-mahasiswa .ellipse-24 {
+  border-radius: 40px;
+  background: #D9D9D9;
+  margin-right: 31px;
+  width: 80px;
+  height: 80px;
+}
+.chat-mahasiswa .nim-nama-mahasiswa-1 {
+  margin-bottom: 7px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 24px;
+  color: #000000;
+}
+.chat-mahasiswa .previews-chat-1 {
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 20px;
+  color: #000000;
+}
+.chat-mahasiswa .container-12 {
+  margin-top: 7px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.chat-mahasiswa .container-10 {
+  margin: 0 51px 63px 51px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.chat-mahasiswa .line-17 {
+  background: rgba(0, 0, 0, 0.5);
+  margin: 0 0 62px 12px;
+  width: 1300px;
+  height: 1px;
+}
+.chat-mahasiswa .ellipse-25 {
+  border-radius: 40px;
+  background: #D9D9D9;
+  margin-right: 35px;
+  width: 80px;
+  height: 80px;
+}
+.chat-mahasiswa .nim-nama-mahasiswa-2 {
+  margin-bottom: 7px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 24px;
+  color: #000000;
+}
+.chat-mahasiswa .previews-chat-2 {
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 20px;
+  color: #000000;
+}
+.chat-mahasiswa .container-5 {
+  margin: 3px 0 4px 0;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.chat-mahasiswa .container-9 {
+  margin: 0 47px 63px 47px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.chat-mahasiswa .line-18 {
+  background: rgba(0, 0, 0, 0.5);
+  margin: 0 0 51px 12px;
+  width: 1300px;
+  height: 1px;
+}
+.chat-mahasiswa .ellipse-26 {
+  border-radius: 40px;
+  background: #D9D9D9;
+  margin-right: 35px;
+  width: 80px;
+  height: 80px;
+}
+.chat-mahasiswa .nim-nama-mahasiswa-3 {
+  margin-bottom: 7px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 24px;
+  color: #000000;
+}
+.chat-mahasiswa .previews-chat-3 {
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 20px;
+  color: #000000;
+}
+.chat-mahasiswa .container-6 {
+  margin-top: 7px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.chat-mahasiswa .container {
+  margin: 0 47px 51px 47px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.chat-mahasiswa .line-19 {
+  background: rgba(0, 0, 0, 0.5);
+  margin-left: 12px;
+  width: 1300px;
+  height: 1px;
+}
+.chat-mahasiswa {
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  padding: 67px 70px 92px 58px;
+  width: 1440px;
+  box-sizing: border-box;
+}

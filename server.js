@@ -5,6 +5,9 @@ const cookieParser = require("cookie-parser");
 const app = express();
 const port = 8000;
 const methodOverride = require("method-override");
+const cors = require("cors");
+const session = require("express-session");
+const dotenv = require("dotenv");
 
 // override with POST having ?_method=DELETE
 app.use(methodOverride("_method"));
@@ -23,6 +26,7 @@ app.use(cookieParser());
 app.use(bodyParser.urlencoded({ extended: true }));
 
 app.set("view engine", "ejs");
+app.use(express.static('public'));
 app.get("*", checkUser);
 
 app.use("/auth", authRouter);
@@ -30,6 +34,24 @@ app.use("/auth", authRouter);
 app.use("/mahasiswa", mahasiswa);
 app.use("/dosen", dosen);
 app.use("/admin", admin);
+
+//login page mahasiswa
+app.use(session({
+  secret: process.env.SESS_SECRET,
+  resave: false,
+  saveUninitialized: true,
+  cookie: {
+    secure: 'auto'
+  }
+}));
+app.use(cors({
+  credentials: true,
+  origin: 'http://localhost:3000'
+}));
+
+dotenv.config();
+
+//login page mahasiswa
 
 app.get("/", authenticateToken, (req, res) => {
   res.render("home");

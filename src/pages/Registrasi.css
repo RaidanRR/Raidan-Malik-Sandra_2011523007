@@ -1,0 +1,231 @@
+.registrasi .line-1 {
+  background: #000000;
+  transform: rotate(144.583deg);
+  margin-bottom: 260px;
+  width: 1440px;
+  height: 1px;
+}
+.registrasi .registrasikan-akun-anda {
+  margin: 0 3.5px 28px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 20px;
+  color: #000000;
+}
+.registrasi .nama-lengkap {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 16px;
+  color: rgba(0, 0, 0, 0.35);
+}
+.registrasi .container-11 {
+  border-radius: 50px;
+  background: #FFFFFF;
+  position: relative;
+  margin: 0 0 20px 4px;
+  display: flex;
+  padding: 15px 126.6px 16px 0;
+  width: 325px;
+  box-sizing: border-box;
+}
+.registrasi .nim {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 16px;
+  color: rgba(0, 0, 0, 0.35);
+}
+.registrasi .container-9 {
+  border-radius: 50px;
+  background: #FFFFFF;
+  position: relative;
+  margin: 0 0 20px 4px;
+  display: flex;
+  padding: 16px 216px 15px 0;
+  width: 325px;
+  box-sizing: border-box;
+}
+.registrasi .email-atau-nomor-telepon {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 16px;
+  color: rgba(0, 0, 0, 0.35);
+}
+.registrasi .container-10 {
+  border-radius: 50px;
+  background: #FFFFFF;
+  position: relative;
+  margin: 0 4px 20px 0;
+  display: flex;
+  padding: 16px 37px 15px 0;
+  width: 325px;
+  box-sizing: border-box;
+}
+.registrasi .kata-sandi {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 16px;
+  color: rgba(0, 0, 0, 0.35);
+}
+.registrasi .container {
+  border-radius: 50px;
+  background: #FFFFFF;
+  position: relative;
+  margin: 0 4px 20px 0;
+  display: flex;
+  padding: 16px 159.5px 15px 0;
+  width: 325px;
+  box-sizing: border-box;
+}
+.registrasi .rectangle-13 {
+  border-radius: 5px;
+  background: #FFFFFF;
+  margin-right: 14px;
+  width: 28px;
+  height: 28px;
+}
+.registrasi .ingat-saya {
+  margin-top: 7px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 14px;
+  color: #000000;
+}
+.registrasi .container-3 {
+  margin-right: 204.7px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.registrasi .container-2 {
+  border-radius: 50px 0 0 50px;
+  background: #D9D9D9;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 66px 0 43px 0;
+  width: 442px;
+  box-sizing: border-box;
+}
+.registrasi .line-3 {
+  background: #000000;
+  transform: rotate(45deg);
+  margin-bottom: 0.2px;
+  width: 168.8px;
+  height: 1px;
+}
+.registrasi .line-4 {
+  background: #000000;
+  transform: rotate(-45deg);
+  width: 168.8px;
+  height: 1px;
+}
+.registrasi .container-6 {
+  background: #FFFFFF;
+  position: relative;
+  margin: 0 0 27px 1px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 1px 0.2px 166.8px 1px;
+  width: 170px;
+  box-sizing: border-box;
+}
+.registrasi .enrollment-key {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 16px;
+  color: rgba(0, 0, 0, 0.35);
+}
+.registrasi .container-5 {
+  border-radius: 50px;
+  background: #FFFFFF;
+  position: relative;
+  margin-bottom: 20px;
+  display: flex;
+  padding: 16px 127.2px 15px 0;
+  width: 325px;
+  box-sizing: border-box;
+}
+.registrasi .daftarkan {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 16px;
+  color: #000000;
+}
+.registrasi .container-8 {
+  border-radius: 50px;
+  background: #BBBBBB;
+  position: relative;
+  margin-bottom: 27px;
+  display: flex;
+  padding: 15px 0 16px 3.8px;
+  width: 325px;
+  box-sizing: border-box;
+}
+.registrasi .sudah-punya-akun-login-di-sini {
+  margin-left: 5.5px;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 14px;
+  color: #000000;
+}
+.sudah-punya-akun-login-di-sini {
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 1.333;
+}
+.registrasi .container-4 {
+  border-radius: 0 50px 50px 0;
+  background: rgba(217, 217, 217, 0.7);
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 77px 0 43px 0;
+  width: 442px;
+  box-sizing: border-box;
+}
+.registrasi .container-1 {
+  display: flex;
+  flex-direction: row;
+  width: 884px;
+  box-sizing: border-box;
+}
+.registrasi .container-7 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 1440px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.registrasi .line-2 {
+  background: #000000;
+  transform: rotate(35.205deg);
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  height: 1px;
+}
+.registrasi {
+  background: #FFFFFF;
+  display: flex;
+  width: 1440px;
+  box-sizing: border-box;
+}

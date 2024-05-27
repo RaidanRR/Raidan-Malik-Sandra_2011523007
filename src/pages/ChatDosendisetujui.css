@@ -1,0 +1,177 @@
+.chat-dosendisetujui .rectangle-124 {
+  border-radius: 0 50px 50px 50px;
+  background: rgba(217, 217, 217, 0.3);
+  position: absolute;
+  top: 236px;
+  right: 62px;
+  width: 1067px;
+  height: 168px;
+}
+.chat-dosendisetujui .rectangle-125 {
+  border-radius: 0 50px 50px 50px;
+  background: rgba(217, 217, 217, 0.3);
+  position: absolute;
+  right: 58px;
+  bottom: 192px;
+  width: 1067px;
+  height: 168px;
+}
+.chat-dosendisetujui .container {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 48px;
+  color: #000000;
+}
+.chat-dosendisetujui .container-2 {
+  border-radius: 37.5px;
+  background: #D9D9D9;
+  position: relative;
+  margin-right: 58px;
+  display: flex;
+  padding: 3px 0.6px 0 0;
+  width: 75px;
+  box-sizing: border-box;
+}
+.chat-dosendisetujui .nama-dosen-pembimbing {
+  margin: 18px 0 15px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 28px;
+  color: #000000;
+}
+.chat-dosendisetujui .container-1 {
+  margin-top: 3px;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.chat-dosendisetujui .jadwal-pertemuan-dd-mmyyyyy-hhmm-wib {
+  margin-bottom: 12px;
+  display: inline-block;
+  text-align: right;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 22px;
+  color: #000000;
+}
+.chat-dosendisetujui .container-4 {
+  margin: 0 101px 45px 58px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1281px;
+  box-sizing: border-box;
+}
+.chat-dosendisetujui .line-67 {
+  background: rgba(0, 0, 0, 0.5);
+  margin: 0 58px 85px 57px;
+  width: 1325px;
+  height: 1px;
+}
+.chat-dosendisetujui .lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-proin-efficitur-pellentesque-varius-nam-turpis-ante-ullamcorper-maximus-ornare-aaliquam-sed-odio-pellentesque-nec-ante-congue-fringilla-nisl-vitae-accumsan-tellus {
+  margin: 0 105px 36px 105px;
+  display: inline-block;
+  text-align: right;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 22px;
+  color: #000000;
+}
+.chat-dosendisetujui .ellipse-21 {
+  border-radius: 37.5px;
+  background: #D9D9D9;
+  margin: 0 25px 138px 0;
+  width: 75px;
+  height: 75px;
+}
+.chat-dosendisetujui .lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-proin-efficitur-pellentesque-varius-nam-turpis-ante-ullamcorper-maximus-ornare-aaliquam-sed-odio-pellentesque-nec-ante-congue-fringilla-nisl-vitae-accumsan-tellus-1 {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 22px;
+  color: #000000;
+}
+.chat-dosendisetujui .container-3 {
+  border-radius: 0 50px 50px 50px;
+  background: #D9D9D9;
+  position: relative;
+  margin-top: 45px;
+  padding: 34px 34px 35px 34px;
+  width: 1067px;
+  box-sizing: border-box;
+}
+.chat-dosendisetujui .container {
+  margin: 0 57px 80px 57px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.chat-dosendisetujui .lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-proin-efficitur-pellentesque-varius-nam-turpis-ante-ullamcorper-maximus-ornare-aaliquam-sed-odio-pellentesque-nec-ante-congue-fringilla-nisl-vitae-accumsan-tellus-2 {
+  margin: 0 101px 103px 101px;
+  display: inline-block;
+  text-align: right;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 22px;
+  color: #000000;
+}
+.chat-dosendisetujui .image-3 {
+  background: url('assets/images/Image3.png') 50% / cover no-repeat;
+  margin: 14px 31px 15px 0;
+  width: 55px;
+  height: 55px;
+}
+.chat-dosendisetujui .tulis-pesan-anda-di-sini {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 20px;
+  color: rgba(0, 0, 0, 0.5);
+}
+.chat-dosendisetujui .container-7 {
+  border-radius: 50px;
+  background: #FFFFFF;
+  position: relative;
+  margin-right: 30px;
+  padding: 32px 48px 22px 48px;
+  width: 1176px;
+  box-sizing: border-box;
+}
+.chat-dosendisetujui .image-4 {
+  background: url('assets/images/Image4.png') 50% / cover no-repeat;
+  margin: 20px 0 9px 0;
+  width: 55px;
+  height: 55px;
+}
+.chat-dosendisetujui .container-6 {
+  border-radius: 50px 50px 0 0;
+  background: #D9D9D9;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  padding: 20px 62px 20px 31px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.chat-dosendisetujui .container-5 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  box-sizing: border-box;
+}
+.chat-dosendisetujui {
+  background: #FFFFFF;
+  display: flex;
+  padding-top: 61px;
+  width: 1440px;
+  box-sizing: border-box;
+}

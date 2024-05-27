@@ -25,7 +25,7 @@
 <body>
 
   <nav class="navbar container-fluid fixed-top">
-    <ul class="nav navbar-left">
+        <ul class="nav navbar-left">
         <li class="nav-item">
             <span class="logo-details">
                 <i id="user" class='bx bx-menu bx-md bx-fw'></i>
@@ -81,13 +81,28 @@
                    <% } else if (user.type == "D") { %>
                     /dosen/<%= user.id %>/courses
                    <% } else {%>
-                    /mahasiswa/
+                    /mahasiswa/coursesPlan
                    <% } %>">
                 <i class='bx bx-folder bx-sm' ></i>
-                <span class="link_name">Mata Kuliah</span>
+                <span class="link_name">Penjadwalan</span>
                 </a>
                 <ul class="sub-menu blank">
-                <li><a class="link_name" href="#">Mata Kuliah</a></li>
+                <li><a class="link_name" href="#">Penjadwalan</a></li>
+                </ul>    
+            </li>
+            <li>
+                <a href="<% if (user.type == "T") { %>
+                    /admin/coursesPlan
+                   <% } else if (user.type == "D") { %>
+                    /dosen/<%= user.id %>/courses
+                   <% } else {%>
+                    /mahasiswa/coursesPlan
+                   <% } %>">
+                <i class='bx bx-folder bx-sm' ></i>
+                <span class="link_name">Progress Mahasiswa</span>
+                </a>
+                <ul class="sub-menu blank">
+                <li><a class="link_name" href="#">Progress Mahasiswa</a></li>
                 </ul>    
             </li>
 

@@ -1,6 +1,8 @@
 const { Sequelize } = require('sequelize');
+const {DataTypes} = Sequelize;
 
-const dbconfig = new Sequelize('loki', 'root', '', {
+
+const dbconfig = new Sequelize('db_pweb', 'root', '', {
     host: 'localhost',
     dialect: 'mysql'
   });

@@ -1,0 +1,286 @@
+.notifikasi-dosen .container {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 48px;
+  color: #000000;
+}
+.notifikasi-dosen .container-8 {
+  border-radius: 37.5px;
+  background: #D9D9D9;
+  position: relative;
+  display: flex;
+  padding: 3px 0.6px 0 0;
+  width: 75px;
+  box-sizing: border-box;
+}
+.notifikasi-dosen .progress-mahasiswa {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 24px;
+  color: #000000;
+}
+.notifikasi-dosen .container-2 {
+  border-radius: 50px;
+  border: 1px solid #000000;
+  position: relative;
+  display: flex;
+  padding: 20px 0 19px 12.5px;
+  width: 453px;
+  box-sizing: border-box;
+}
+.notifikasi-dosen .penjadwalan {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 24px;
+  color: #FFFFFF;
+}
+.notifikasi-dosen .container-1 {
+  border-radius: 50px;
+  background: rgba(0, 0, 0, 0.35);
+  position: relative;
+  display: flex;
+  padding: 20px 0.8px 19px 0;
+  width: 453px;
+  box-sizing: border-box;
+}
+.notifikasi-dosen .container-6 {
+  margin-bottom: 47px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 1171px;
+  box-sizing: border-box;
+}
+.notifikasi-dosen .line-15 {
+  background: rgba(0, 0, 0, 0.5);
+  margin: 0 0 46px 6px;
+  width: 1300px;
+  height: 1px;
+}
+.notifikasi-dosen .ddmmyyyy-hhmm {
+  margin: 58px 15px 0 0;
+  display: inline-block;
+  width: 949px;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 20px;
+  color: #000000;
+}
+.notifikasi-dosen .lihat-detail {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 20px;
+  color: #000000;
+}
+.notifikasi-dosen .container-5 {
+  border-radius: 20px;
+  border: 1px solid #000000;
+  position: relative;
+  margin-bottom: 23px;
+  display: flex;
+  padding: 18px 0.6px 17px 0;
+  width: 167px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.notifikasi-dosen .container-3 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1131px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.notifikasi-dosen .pertemuan-ke-xnama-mahasiswa-mengajukan-permintaan-pertemuan {
+  position: absolute;
+  left: 82px;
+  top: 18px;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 24px;
+  color: #000000;
+}
+.pertemuan-ke-xnama-mahasiswa-mengajukan-permintaan-pertemuan-sub13 {
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 1.333;
+}
+.pertemuan-ke-xnama-mahasiswa-mengajukan-permintaan-pertemuan {
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 25px;
+  line-height: 1.333;
+}
+.notifikasi-dosen .container-9 {
+  border-radius: 25px;
+  background: rgba(217, 217, 217, 0.5);
+  position: relative;
+  margin: 0 5px 49px 0;
+  display: flex;
+  padding: 55px 88px 32px 82px;
+  width: 1301px;
+  box-sizing: border-box;
+}
+.notifikasi-dosen .yang-sudah-dibuka {
+  margin-right: 15px;
+  width: 215px;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 20px;
+  color: rgba(0, 0, 0, 0.5);
+}
+.notifikasi-dosen .line-17 {
+  background: #000000;
+  margin: 15px 0 14px 0;
+  width: 1053px;
+  height: 1px;
+}
+.notifikasi-dosen .container-7 {
+  margin: 0 17px 74px 6px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1283px;
+  box-sizing: border-box;
+}
+.notifikasi-dosen .pertemuan-ke-xnama-mahasiswa-mengajukan-pembatalan-pertemuan {
+  margin: 0 82px 21px 82px;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 24px;
+  color: #000000;
+}
+.pertemuan-ke-xnama-mahasiswa-mengajukan-pembatalan-pertemuan-sub13 {
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 1.333;
+}
+.pertemuan-ke-xnama-mahasiswa-mengajukan-pembatalan-pertemuan {
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 25px;
+  line-height: 1.333;
+}
+.notifikasi-dosen .ddmmyyyy-hhmm-2 {
+  margin: 0 82px 192px 82px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 20px;
+  color: #000000;
+}
+.notifikasi-dosen .ddmmyyyy-hhmm-1 {
+  margin: 0 82px;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 20px;
+  color: #000000;
+}
+.notifikasi-dosen .container-10 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.notifikasi-dosen .pertemuan-ke-xnama-mahasiswa-membalas-chat-anda {
+  position: absolute;
+  left: 140px;
+  bottom: 119px;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 24px;
+  color: #000000;
+}
+.pertemuan-ke-xnama-mahasiswa-membalas-chat-anda-sub13 {
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 1.333;
+}
+.pertemuan-ke-xnama-mahasiswa-membalas-chat-anda {
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 25px;
+  line-height: 1.333;
+}
+.notifikasi-dosen .rectangle-34 {
+  border-radius: 20px;
+  border: 1px solid #000000;
+  position: absolute;
+  top: 55px;
+  right: 93px;
+  width: 167px;
+  height: 65px;
+}
+.notifikasi-dosen .lihat-detail-1 {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 20px;
+  color: #000000;
+}
+.notifikasi-dosen .container {
+  border-radius: 25px;
+  border: 1px solid rgba(0, 0, 0, 0.5);
+  position: absolute;
+  left: 63px;
+  right: 76px;
+  bottom: 303px;
+  display: flex;
+  padding: 73px 120.6px 72px 120.6px;
+  box-sizing: border-box;
+}
+.notifikasi-dosen .rectangle-35 {
+  border-radius: 20px;
+  border: 1px solid #000000;
+  position: absolute;
+  top: 55px;
+  right: 88px;
+  width: 167px;
+  height: 65px;
+}
+.notifikasi-dosen .lihat-detail-2 {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 20px;
+  color: #000000;
+}
+.notifikasi-dosen .container-4 {
+  border-radius: 25px;
+  border: 1px solid rgba(0, 0, 0, 0.5);
+  position: absolute;
+  left: 58px;
+  right: 81px;
+  bottom: 81px;
+  display: flex;
+  padding: 73px 115.6px 72px 115.6px;
+  box-sizing: border-box;
+}
+.notifikasi-dosen {
+  background: #FFFFFF;
+  display: flex;
+  padding: 74px 76px 106px 58px;
+  width: 1440px;
+  box-sizing: border-box;
+}

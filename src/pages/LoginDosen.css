@@ -1,0 +1,203 @@
+.login-dosen .line-1 {
+  background: #000000;
+  transform: rotate(144.583deg);
+  margin-bottom: 251px;
+  width: 1440px;
+  height: 1px;
+}
+.login-dosen .line-3 {
+  background: #000000;
+  transform: rotate(45deg);
+  position: relative;
+  width: 190px;
+  height: 1px;
+}
+.login-dosen .line-4 {
+  background: #000000;
+  transform: rotate(-45deg);
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 190px;
+  height: 1px;
+}
+.login-dosen .container-1 {
+  background: #FFFFFF;
+  position: relative;
+  margin: 0 15px 44px 0;
+  display: flex;
+  padding-right: 0px;
+  width: 190px;
+  height: 190px;
+  box-sizing: border-box;
+}
+.login-dosen .fakultas-teknologi-informasi-universitas-andalas {
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 18px;
+  color: #000000;
+}
+.login-dosen .container {
+  border-radius: 50px 0 0 50px;
+  background: #D9D9D9;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 403px;
+}
+.login-dosen .silahkan-masuk-ke-akun-anda {
+  margin: 0 0.4px 32px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 20px;
+  color: #000000;
+}
+.login-dosen .nip {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 16px;
+  color: rgba(0, 0, 0, 0.35);
+}
+.login-dosen .container-5 {
+  border-radius: 50px;
+  background: #FFFFFF;
+  position: relative;
+  margin-bottom: 20px;
+  display: flex;
+  padding: 15px 220.6px 16px 0;
+  width: 325px;
+  box-sizing: border-box;
+}
+.login-dosen .kata-sandi {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 16px;
+  color: rgba(0, 0, 0, 0.35);
+}
+.login-dosen .container-3 {
+  border-radius: 50px;
+  background: #FFFFFF;
+  position: relative;
+  margin-bottom: 23px;
+  display: flex;
+  padding: 16px 158.5px 15px 0;
+  width: 325px;
+  box-sizing: border-box;
+}
+.login-dosen .rectangle-8 {
+  border-radius: 5px;
+  background: #FFFFFF;
+  margin-right: 8px;
+  width: 28px;
+  height: 28px;
+}
+.login-dosen .ingat-saya {
+  margin: 4px 0 3px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 14px;
+  color: #000000;
+}
+.login-dosen .container-2 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.login-dosen .lupa-kata-sandi {
+  margin: 4px 0 3px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 14px;
+  color: #000000;
+}
+.login-dosen .container-4 {
+  margin: 0 0 25px 3.2px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 320.2px;
+  box-sizing: border-box;
+}
+.login-dosen .masuk {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 16px;
+  color: #000000;
+}
+.login-dosen .container-7 {
+  border-radius: 50px;
+  background: #BBBBBB;
+  position: relative;
+  margin-bottom: 20px;
+  display: flex;
+  padding: 16px 0 15px 13.8px;
+  width: 325px;
+  box-sizing: border-box;
+}
+.belum-punya-akun-registrasi-di-sini {
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 1.333;
+}
+.login-dosen .belum-punya-akun-registrasi-di-sini {
+  margin-left: 33.3px;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 14px;
+  color: #000000;
+}
+.login-dosen .container-9 {
+  border-radius: 0 50px 50px 0;
+  background: rgba(217, 217, 217, 0.7);
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 471px;
+}
+.login-dosen .container-8 {
+  display: flex;
+  flex-direction: row;
+  width: 874px;
+  box-sizing: border-box;
+}
+.login-dosen .container-6 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 1440px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.login-dosen .line-2 {
+  background: #000000;
+  transform: rotate(35.205deg);
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  height: 1px;
+}
+.login-dosen {
+  background: #FFFFFF;
+  display: flex;
+  width: 1440px;
+  box-sizing: border-box;
+}

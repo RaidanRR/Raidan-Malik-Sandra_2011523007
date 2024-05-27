@@ -1,0 +1,285 @@
+.notifikasi-dosen-1 .container {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 48px;
+  color: #000000;
+}
+.notifikasi-dosen-1 .container-6 {
+  border-radius: 37.5px;
+  background: #D9D9D9;
+  position: relative;
+  display: flex;
+  padding: 3px 0.6px 0 0;
+  width: 75px;
+  box-sizing: border-box;
+}
+.notifikasi-dosen-1 .progress-mahasiswa {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 24px;
+  color: #FFFFFF;
+}
+.notifikasi-dosen-1 .container-1 {
+  border-radius: 50px;
+  background: #A4A4A4;
+  position: relative;
+  display: flex;
+  padding: 18px 0 21px 20.5px;
+  width: 453px;
+  box-sizing: border-box;
+}
+.notifikasi-dosen-1 .penjadwalan {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 24px;
+  color: #000000;
+}
+.notifikasi-dosen-1 .container-10 {
+  border-radius: 50px;
+  border: 1px solid #000000;
+  position: relative;
+  display: flex;
+  padding: 20px 0.8px 19px 0;
+  width: 453px;
+  box-sizing: border-box;
+}
+.notifikasi-dosen-1 .container-11 {
+  margin-bottom: 47px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 1171px;
+  box-sizing: border-box;
+}
+.notifikasi-dosen-1 .line-15 {
+  background: rgba(0, 0, 0, 0.5);
+  margin: 0 6px 38px 6px;
+  width: 1300px;
+  height: 1px;
+}
+.progress-ke-xnim-nama-mahasiswa-1-subjek-dokumen-sub14 {
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 25px;
+  line-height: 1.333;
+}
+.progress-ke-xnim-nama-mahasiswa-1-subjek-dokumen {
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 22px;
+  line-height: 1.333;
+}
+.notifikasi-dosen-1 .progress-ke-xnim-nama-mahasiswa-1-subjek-dokumen {
+  margin: 0 52px 25px 0;
+  width: 878px;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 24px;
+  color: #000000;
+}
+.progress-ke-xnim-nama-mahasiswa-1-subjek-dokumen-sub15 {
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 22px;
+  line-height: 1.333;
+}
+.notifikasi-dosen-1 .koreksi {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 24px;
+  color: #000000;
+}
+.notifikasi-dosen-1 .container-5 {
+  border-radius: 20px;
+  background: #FFFFFF;
+  position: relative;
+  margin-top: 57px;
+  display: flex;
+  padding: 20px 12.5px 16px 0;
+  width: 238px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.notifikasi-dosen-1 .container {
+  margin-bottom: 25px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1168px;
+  box-sizing: border-box;
+}
+.notifikasi-dosen-1 .ddmmyyyy-hhmm {
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 20px;
+  color: #000000;
+}
+.notifikasi-dosen-1 .container-7 {
+  border-radius: 25px;
+  background: rgba(217, 217, 217, 0.5);
+  position: relative;
+  margin: 0 6px 38px 5px;
+  display: flex;
+  flex-direction: column;
+  padding: 24px 64px 25px 69px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.notifikasi-dosen-1 .yang-sudah-dikoreksi {
+  margin-right: 13.9px;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 20px;
+  color: rgba(0, 0, 0, 0.5);
+}
+.notifikasi-dosen-1 .line-17 {
+  background: rgba(0, 0, 0, 0.5);
+  margin: 15px 0 14px 0;
+  width: 1053px;
+  height: 1px;
+}
+.notifikasi-dosen-1 .container-2 {
+  margin: 0 15px 38px 14px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.notifikasi-dosen-1 .progress-ke-xnim-nama-mahasiswa-1-subjek-dokumen-1 {
+  margin-right: 52px;
+  width: 980.2px;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 24px;
+  color: #000000;
+}
+.progress-ke-xnim-nama-mahasiswa-1-subjek-dokumen-1-sub15 {
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 22px;
+  line-height: 1.333;
+}
+.progress-ke-xnim-nama-mahasiswa-1-subjek-dokumen-1-sub14 {
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 25px;
+  line-height: 1.333;
+}
+.progress-ke-xnim-nama-mahasiswa-1-subjek-dokumen-1 {
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 22px;
+  line-height: 1.333;
+}
+.notifikasi-dosen-1 .ddmmyyyy-hhmm-1 {
+  margin: 4px 0 40px 0;
+  display: inline-block;
+  text-align: right;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 20px;
+  color: #000000;
+}
+.notifikasi-dosen-1 .container-3 {
+  border-radius: 25px;
+  border: 1px solid rgba(0, 0, 0, 0.5);
+  position: relative;
+  margin: 0 0 38px 11px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 31px 47px 49px 69px;
+  width: 1301px;
+  box-sizing: border-box;
+}
+.notifikasi-dosen-1 .progress-ke-xnim-nama-mahasiswa-1-subjek-dokumen-2 {
+  margin-right: 52px;
+  width: 980.2px;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 24px;
+  color: #000000;
+}
+.progress-ke-xnim-nama-mahasiswa-1-subjek-dokumen-2-sub15 {
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 22px;
+  line-height: 1.333;
+}
+.progress-ke-xnim-nama-mahasiswa-1-subjek-dokumen-2-sub14 {
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 25px;
+  line-height: 1.333;
+}
+.progress-ke-xnim-nama-mahasiswa-1-subjek-dokumen-2 {
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 22px;
+  line-height: 1.333;
+}
+.notifikasi-dosen-1 .ddmmyyyy-hhmm-2 {
+  margin: 4px 0 40px 0;
+  display: inline-block;
+  text-align: right;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 20px;
+  color: #000000;
+}
+.notifikasi-dosen-1 .container-9 {
+  border-radius: 25px;
+  border: 1px solid rgba(0, 0, 0, 0.5);
+  position: relative;
+  margin-left: 11px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 31px 47px 49px 69px;
+  width: 1301px;
+  box-sizing: border-box;
+}
+.notifikasi-dosen-1 .container-4 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.notifikasi-dosen-1 .container-1 {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 24px;
+  color: #000000;
+}
+.notifikasi-dosen-1 .container-8 {
+  border-radius: 27.5px;
+  background: #D9D9D9;
+  position: absolute;
+  top: 46px;
+  right: 184px;
+  display: flex;
+  padding: 10px 0 9px 0px;
+  width: 55px;
+  box-sizing: border-box;
+}
+.notifikasi-dosen {
+  background: #FFFFFF;
+  display: flex;
+  padding: 74px 70px 44px 58px;
+  width: 1440px;
+  box-sizing: border-box;
+}

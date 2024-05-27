@@ -1,0 +1,475 @@
+.janji-dengan-mahasiswa-2 .rectangle-36 {
+  border-radius: 25px 25px 0 0;
+  background: #D9D9D9;
+  position: absolute;
+  left: 71px;
+  top: 353px;
+  right: 71px;
+  height: 84px;
+}
+.janji-dengan-mahasiswa-2 .container {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 48px;
+  color: #000000;
+}
+.janji-dengan-mahasiswa-2 .container-9 {
+  border-radius: 37.5px;
+  background: #D9D9D9;
+  position: relative;
+  margin: 4px 58px 0 0;
+  display: flex;
+  padding: 3px 0.6px 0 0;
+  width: 75px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.janji-dengan-mahasiswa-2 .angkatan-20-xx {
+  margin-bottom: 7px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 28px;
+  color: #000000;
+}
+.janji-dengan-mahasiswa-2 .jumlah-mahasiswa {
+  margin-right: 14px;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 20px;
+  color: #000000;
+}
+.janji-dengan-mahasiswa-2 .container-11 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.janji-dengan-mahasiswa-2 .container {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.janji-dengan-mahasiswa-2 .simpan {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 22px;
+  color: #000000;
+}
+.janji-dengan-mahasiswa-2 .container-2 {
+  border-radius: 50px;
+  background: #D9D9D9;
+  position: relative;
+  margin: 11px 0 4px 0;
+  display: flex;
+  padding: 15px 1.1px 16px 0;
+  width: 172px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.janji-dengan-mahasiswa-2 .container-10 {
+  margin: 0 10px 39px 1px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1296px;
+  box-sizing: border-box;
+}
+.janji-dengan-mahasiswa-2 .line-15 {
+  background: rgba(0, 0, 0, 0.5);
+  margin: 0 6px 39px 1px;
+  width: 1300px;
+  height: 1px;
+}
+.janji-dengan-mahasiswa-2 .cari-berdasarkan-nama-mahasiswa-atau-nim {
+  margin: 11px 16.5px 6px 0;
+  display: inline-block;
+  width: 1107.5px;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 22px;
+  color: rgba(80, 80, 80, 0.65);
+}
+.janji-dengan-mahasiswa-2 .line-21 {
+  background: #000000;
+  transform: rotate(-40.732deg);
+  margin-left: 2px;
+  width: 36.8px;
+  height: 1px;
+}
+.janji-dengan-mahasiswa-2 .line-20 {
+  background: #000000;
+  transform: rotate(44.17deg);
+  margin-right: 3.8px;
+  width: 35px;
+  height: 1px;
+}
+.janji-dengan-mahasiswa-2 .container-1 {
+  border-radius: 25px;
+  background: #D9D9D9;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 9.3px 6.2px 39px 5px;
+  width: 50px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.janji-dengan-mahasiswa-2 .container-13 {
+  border-radius: 50px;
+  border: 1px solid rgba(0, 0, 0, 0.5);
+  position: relative;
+  margin: 0 1px 47px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 19px 52px 18px 80px;
+  width: 1306px;
+  box-sizing: border-box;
+}
+.janji-dengan-mahasiswa-2 .nim {
+  margin-right: 16.5px;
+  width: 211.5px;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 22px;
+  color: #000000;
+}
+.janji-dengan-mahasiswa-2 .nama-mahasiswa-2 {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 22px;
+  color: #000000;
+}
+.janji-dengan-mahasiswa-2 .judul-tugas-akhir {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 22px;
+  color: #000000;
+}
+.janji-dengan-mahasiswa-2 .centang {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 22px;
+  color: #000000;
+}
+.janji-dengan-mahasiswa-2 .container-4 {
+  margin: 0 0 49px 54px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1159.9px;
+  box-sizing: border-box;
+}
+.janji-dengan-mahasiswa-2 .xxxxxxxxxxx {
+  margin: 3px 16.5px 4px 0;
+  display: inline-block;
+  width: 241.5px;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 22px;
+  color: #000000;
+}
+.janji-dengan-mahasiswa-2 .nama-mahasiswa {
+  margin: 3px 0 4px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 22px;
+  color: #000000;
+}
+.janji-dengan-mahasiswa-2 .judul-tugas-akhir-mahasiswa {
+  margin: 3px 0 4px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 22px;
+  color: #000000;
+}
+.janji-dengan-mahasiswa-2 .rectangle-125 {
+  border-radius: 10px;
+  border: 1px solid #000000;
+  width: 40px;
+  height: 40px;
+}
+.janji-dengan-mahasiswa-2 .container-8 {
+  margin: 0 28.9px 59px 6px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1179px;
+  box-sizing: border-box;
+}
+.janji-dengan-mahasiswa-2 .xxxxxxxxxxx-1 {
+  margin: 7px 16.5px 0 0;
+  display: inline-block;
+  width: 248.5px;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 22px;
+  color: #000000;
+}
+.janji-dengan-mahasiswa-2 .nama-mahasiswa-1 {
+  margin-top: 7px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 22px;
+  color: #000000;
+}
+.janji-dengan-mahasiswa-2 .judul-tugas-akhir-mahasiswa-1 {
+  margin: 3px 0 4px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 22px;
+  color: #000000;
+}
+.janji-dengan-mahasiswa-2 .rectangle-126 {
+  border-radius: 10px;
+  border: 1px solid #000000;
+  width: 40px;
+  height: 40px;
+}
+.janji-dengan-mahasiswa-2 .container-6 {
+  margin: 0 28.9px 66px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1185px;
+  box-sizing: border-box;
+}
+.janji-dengan-mahasiswa-2 .xxxxxxxxxxx-2 {
+  margin: 7px 16.5px 0 0;
+  display: inline-block;
+  width: 248.5px;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 22px;
+  color: #000000;
+}
+.janji-dengan-mahasiswa-2 .nama-mahasiswa-3 {
+  margin-top: 7px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 22px;
+  color: #000000;
+}
+.janji-dengan-mahasiswa-2 .judul-tugas-akhir-mahasiswa-2 {
+  margin: 3px 0 4px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 22px;
+  color: #000000;
+}
+.janji-dengan-mahasiswa-2 .rectangle-127 {
+  border-radius: 10px;
+  border: 1px solid #000000;
+  width: 40px;
+  height: 40px;
+}
+.janji-dengan-mahasiswa-2 .container-14 {
+  margin: 0 28.9px 70px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1185px;
+  box-sizing: border-box;
+}
+.janji-dengan-mahasiswa-2 .xxxxxxxxxxx-3 {
+  margin: 7px 16.5px 0 0;
+  display: inline-block;
+  width: 248.5px;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 22px;
+  color: #000000;
+}
+.janji-dengan-mahasiswa-2 .nama-mahasiswa-4 {
+  margin-top: 7px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 22px;
+  color: #000000;
+}
+.janji-dengan-mahasiswa-2 .judul-tugas-akhir-mahasiswa-3 {
+  margin: 3px 0 4px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 22px;
+  color: #000000;
+}
+.janji-dengan-mahasiswa-2 .rectangle-128 {
+  border-radius: 10px;
+  border: 1px solid #000000;
+  width: 40px;
+  height: 40px;
+}
+.janji-dengan-mahasiswa-2 .container-12 {
+  margin: 0 28.9px 66px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1185px;
+  box-sizing: border-box;
+}
+.janji-dengan-mahasiswa-2 .xxxxxxxxxxx-4 {
+  margin: 7px 16.5px 0 0;
+  display: inline-block;
+  width: 248.5px;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 22px;
+  color: #000000;
+}
+.janji-dengan-mahasiswa-2 .nama-mahasiswa-5 {
+  margin-top: 7px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 22px;
+  color: #000000;
+}
+.janji-dengan-mahasiswa-2 .judul-tugas-akhir-mahasiswa-4 {
+  margin: 3px 0 4px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 22px;
+  color: #000000;
+}
+.janji-dengan-mahasiswa-2 .rectangle-129 {
+  border-radius: 10px;
+  border: 1px solid #000000;
+  width: 40px;
+  height: 40px;
+}
+.janji-dengan-mahasiswa-2 .container-3 {
+  margin-right: 28.9px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1185px;
+  box-sizing: border-box;
+}
+.janji-dengan-mahasiswa-2 .container-5 {
+  border-radius: 25px;
+  border: 1px solid rgba(0, 0, 0, 0.5);
+  position: relative;
+  margin-left: 7px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 32px 47.1px 38px 39px;
+  width: 1300px;
+  box-sizing: border-box;
+}
+.janji-dengan-mahasiswa-2 .container-7 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 1307px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.janji-dengan-mahasiswa-2 .line-29 {
+  background: rgba(80, 80, 80, 0.5);
+  position: absolute;
+  left: 282px;
+  bottom: 57px;
+  width: 1px;
+  height: 612px;
+}
+.janji-dengan-mahasiswa-2 .line-25 {
+  background: rgba(80, 80, 80, 0.5);
+  position: absolute;
+  left: 679px;
+  bottom: 57px;
+  width: 1px;
+  height: 611px;
+}
+.janji-dengan-mahasiswa-2 .line-27 {
+  background: rgba(80, 80, 80, 0.5);
+  position: absolute;
+  right: 251px;
+  bottom: 57px;
+  width: 1px;
+  height: 611px;
+}
+.janji-dengan-mahasiswa-2 .line-28 {
+  background: rgba(0, 0, 0, 0.5);
+  position: absolute;
+  left: 71px;
+  right: 71px;
+  bottom: 487px;
+  height: 1px;
+}
+.janji-dengan-mahasiswa-2 .line-30 {
+  background: rgba(0, 0, 0, 0.5);
+  position: absolute;
+  left: 72px;
+  right: 70px;
+  bottom: 384px;
+  height: 1px;
+}
+.janji-dengan-mahasiswa-2 .line-16 {
+  background: rgba(0, 0, 0, 0.5);
+  position: absolute;
+  top: 218px;
+  right: 225px;
+  width: 1px;
+  height: 88px;
+}
+.janji-dengan-mahasiswa-2 .line-32 {
+  background: rgba(0, 0, 0, 0.5);
+  position: absolute;
+  left: 72px;
+  right: 70px;
+  bottom: 168px;
+  height: 1px;
+}
+.janji-dengan-mahasiswa-2 .line-31 {
+  background: rgba(0, 0, 0, 0.5);
+  position: absolute;
+  left: 72px;
+  right: 70px;
+  bottom: 278px;
+  height: 1px;
+}
+.janji-dengan-mahasiswa-2 {
+  background: #FFFFFF;
+  display: flex;
+  padding: 61px 70px 58px 63px;
+  width: 1440px;
+  box-sizing: border-box;
+}

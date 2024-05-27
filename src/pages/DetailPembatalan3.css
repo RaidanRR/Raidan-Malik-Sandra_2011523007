@@ -1,0 +1,235 @@
+.detail-pembatalan-3 .container {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 48px;
+  color: #000000;
+}
+.detail-pembatalan-3 .container-8 {
+  border-radius: 37.5px;
+  background: #D9D9D9;
+  position: relative;
+  margin-right: 46px;
+  display: flex;
+  padding: 3px 0.6px 0 0;
+  width: 75px;
+  box-sizing: border-box;
+}
+.detail-pembatalan-3 .pengajuan-pembatalan-pertemuan {
+  margin: 17px 0 16px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 28px;
+  color: #000000;
+}
+.detail-pembatalan-3 .container-6 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.detail-pembatalan-3 .ddmmyyyy-hhmm {
+  margin-bottom: 15px;
+  display: inline-block;
+  text-align: right;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 20px;
+  color: #000000;
+}
+.detail-pembatalan-3 .container-2 {
+  margin: 0 58px 45px 58px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1324px;
+  box-sizing: border-box;
+}
+.detail-pembatalan-3 .line-67 {
+  background: rgba(0, 0, 0, 0.5);
+  margin: 0 58px 75px 57px;
+  width: 1325px;
+  height: 1px;
+}
+.detail-pembatalan-3 .nim-nama-mahasiswa-tanggal-pertemuan-waktu-pertemuan-tempat-pertemuan {
+  position: relative;
+  margin-right: 1.2px;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 24px;
+  color: #000000;
+}
+.detail-pembatalan-3 .xxxxxxxxxxnama-mahasiswa-dd-mmyyyy-hhmm-wibtempat-pertemuan-yang-diajukan {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 24px;
+  color: #000000;
+}
+.detail-pembatalan-3 .container-1 {
+  margin: 0 109px 99px 109px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.detail-pembatalan-3 .ellipse-20 {
+  border-radius: 37.5px;
+  background: #D9D9D9;
+  margin: 0 46px 93px 0;
+  width: 75px;
+  height: 75px;
+}
+.detail-pembatalan-3 .lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-proin-efficitur-pellentesque-varius-nam-turpis-ante-ullamcorper-maximus-ornare-aaliquam-sed-odio-pellentesque-nec-ante-congue-fringilla-nisl-vitae-accumsan-tellus {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 22px;
+  color: #000000;
+}
+.detail-pembatalan-3 .container-10 {
+  border-radius: 0 50px 50px 50px;
+  background: #D9D9D9;
+  position: relative;
+  padding: 34px 44px 35px 44px;
+  width: 1067px;
+  box-sizing: border-box;
+}
+.detail-pembatalan-3 .container-9 {
+  margin: 0 58px 62px 58px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.detail-pembatalan-3 .line-81 {
+  background: rgba(0, 0, 0, 0.5);
+  margin: 16px 25px 19px 0;
+  width: 453px;
+  height: 1px;
+}
+.detail-pembatalan-3 .anda-menolak-pembatalan-pertemuan {
+  margin-right: 27px;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 24px;
+  color: #000000;
+}
+.detail-pembatalan-3 .line-82 {
+  background: rgba(0, 0, 0, 0.5);
+  margin: 16px 0 19px 0;
+  width: 453px;
+  height: 1px;
+}
+.detail-pembatalan-3 .container-11 {
+  margin-bottom: 57px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.detail-pembatalan-3 .line-78 {
+  background: #000000;
+  transform: rotate(-54.728deg);
+  margin: 0 0px 4px 5px;
+  width: 29px;
+  height: 1px;
+}
+.detail-pembatalan-3 .line-77 {
+  background: #000000;
+  transform: rotate(46.637deg);
+  width: 34px;
+  height: 1px;
+}
+.detail-pembatalan-3 .container-5 {
+  border-radius: 25px;
+  background: #FFFFFF;
+  position: relative;
+  margin: 17px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 5px 10px 39px 6px;
+  width: 50px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.detail-pembatalan-3 .tulis-pesan-anda-di-sini {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 20px;
+  color: rgba(0, 0, 0, 0.5);
+}
+.detail-pembatalan-3 .container-3 {
+  border-radius: 50px;
+  background: #FFFFFF;
+  position: relative;
+  padding: 27px 62px;
+  width: 1176px;
+  box-sizing: border-box;
+}
+.detail-pembatalan-3 .line-80 {
+  background: #000000;
+  transform: rotate(-48.576deg);
+  margin: 0 0px 3px 5px;
+  width: 45px;
+  height: 1px;
+}
+.detail-pembatalan-3 .line-79 {
+  background: #000000;
+  transform: rotate(43.229deg);
+  width: 50px;
+  height: 1px;
+}
+.detail-pembatalan-3 .container {
+  border-radius: 35px;
+  background: #FFFFFF;
+  position: relative;
+  margin: 7px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 10px 12px 55px 8px;
+  width: 70px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.detail-pembatalan-3 .container-4 {
+  background: #D9D9D9;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  column-gap: 27px;
+  padding: 39px 58px 39px 32px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.detail-pembatalan-3 .container-7 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.detail-pembatalan-3 .rectangle-118 {
+  border-radius: 25px;
+  border: 1px solid rgba(0, 0, 0, 0.5);
+  position: absolute;
+  left: 57px;
+  top: 229px;
+  right: 58px;
+  height: 265px;
+}
+.detail-pembatalan-3 {
+  background: #FFFFFF;
+  display: flex;
+  padding-top: 64px;
+  width: 1440px;
+  box-sizing: border-box;
+}

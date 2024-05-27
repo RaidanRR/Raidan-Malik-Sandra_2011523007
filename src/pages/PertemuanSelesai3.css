@@ -1,0 +1,154 @@
+.pertemuan-selesai-3 .rectangle-143 {
+  border-radius: 50px;
+  background: #D9D9D9;
+  position: absolute;
+  right: 80px;
+  bottom: 439px;
+  width: 539px;
+  height: 68px;
+}
+.pertemuan-selesai-3 .container {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 48px;
+  color: #000000;
+}
+.pertemuan-selesai-3 .container-4 {
+  border-radius: 37.5px;
+  background: #D9D9D9;
+  position: relative;
+  margin-right: 46px;
+  display: flex;
+  padding: 3px 0.6px 0 0;
+  width: 75px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.pertemuan-selesai-3 .pertemuan-ke-x {
+  margin: 17px 0 16px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 28px;
+  color: #000000;
+}
+.pertemuan-selesai-3 .container-1 {
+  background: #FFFFFF;
+  position: relative;
+  margin-bottom: 1px;
+  display: flex;
+  flex-direction: row;
+  padding: 65px 0 44px 58px;
+  width: 1440px;
+  box-sizing: border-box;
+}
+.pertemuan-selesai-3 .line-67 {
+  background: rgba(0, 0, 0, 0.5);
+  margin: 0 58px 75px 57px;
+  width: 1325px;
+  height: 1px;
+}
+.pertemuan-selesai-3 .nama-mahasiswa-tanggal-pertemuan-waktu-pertemuan-tempat-pertemuan {
+  position: relative;
+  margin-right: 1.2px;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 24px;
+  color: #000000;
+}
+.pertemuan-selesai-3 .nama-mahasiswa-dd-mmyyyy-hhmm-wibtempat-pertemuan-yang-diajukan {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 24px;
+  color: #000000;
+}
+.pertemuan-selesai-3 .container {
+  margin: 0 109px 94px 109px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.pertemuan-selesai-3 .riwayat-chat {
+  margin-right: 18px;
+  width: 693px;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 24px;
+  color: #000000;
+}
+.pertemuan-selesai-3 .catatan-diskusi {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 24px;
+  color: #000000;
+}
+.pertemuan-selesai-3 .container-2 {
+  border-radius: 50px;
+  border: 1px solid rgba(0, 0, 0, 0.5);
+  position: relative;
+  margin: 0 58px 43px 57px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 35px 0 34px 0;
+  width: 1325px;
+  box-sizing: border-box;
+}
+.pertemuan-selesai-3 .lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-proin-efficitur-pellentesque-varius-nam-turpis-ante-ullamcorper-maximus-ornare-aaliquam-sed-odio-pellentesque-nec-ante-congue-fringilla-nisl-vitae-accumsan-tellus-1 {
+  margin: 0 2.7px 43px 3px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 22px;
+  color: #000000;
+}
+.pertemuan-selesai-3 .lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-proin-efficitur-pellentesque-varius-nam-turpis-ante-ullamcorper-maximus-ornare-aaliquam-sed-odio-pellentesque-nec-ante-congue-fringilla-nisl-vitae-accumsan-tellus {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 22px;
+  color: #000000;
+}
+.pertemuan-selesai-3 .container-5 {
+  border-radius: 25px;
+  border: 1px solid rgba(0, 0, 0, 0.5);
+  position: relative;
+  margin: 0 58px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 36px 57px 35px 48px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.pertemuan-selesai-3 .container-3 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.pertemuan-selesai-3 .rectangle-118 {
+  border-radius: 25px;
+  border: 1px solid rgba(0, 0, 0, 0.5);
+  position: absolute;
+  left: 57px;
+  top: 229px;
+  right: 58px;
+  height: 226px;
+}
+.pertemuan-selesai {
+  background: #FFFFFF;
+  display: flex;
+  padding-bottom: 66px;
+  width: 1440px;
+  box-sizing: border-box;
+}

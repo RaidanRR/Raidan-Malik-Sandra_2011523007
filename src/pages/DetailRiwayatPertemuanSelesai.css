@@ -1,0 +1,161 @@
+.detail-riwayat-pertemuan-selesai .container {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 48px;
+  color: #000000;
+}
+.detail-riwayat-pertemuan-selesai .container-6 {
+  border-radius: 37.5px;
+  background: #D9D9D9;
+  position: relative;
+  margin-right: 46px;
+  display: flex;
+  padding: 3px 0.6px 0 0;
+  width: 75px;
+  box-sizing: border-box;
+}
+.detail-riwayat-pertemuan-selesai .pertemuan-ke-x {
+  margin: 17px 0 16px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 28px;
+  color: #000000;
+}
+.detail-riwayat-pertemuan-selesai .container-7 {
+  margin: 0 58px 45px 58px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.detail-riwayat-pertemuan-selesai .line-67 {
+  background: rgba(0, 0, 0, 0.5);
+  margin: 0 58px 75px 57px;
+  width: 1325px;
+  height: 1px;
+}
+.detail-riwayat-pertemuan-selesai .nim-nama-mahasiswa-tanggal-pertemuan-waktu-pertemuan-tempat-pertemuan {
+  position: relative;
+  margin-right: 1.2px;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 24px;
+  color: #000000;
+}
+.detail-riwayat-pertemuan-selesai .xxxxxxxxxxnama-mahasiswa-dd-mmyyyy-hhmm-wibtempat-pertemuan-yang-diajukan {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 24px;
+  color: #000000;
+}
+.detail-riwayat-pertemuan-selesai .container-1 {
+  margin: 0 109px 99px 109px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.detail-riwayat-pertemuan-selesai .ellipse-20 {
+  border-radius: 37.5px;
+  background: #D9D9D9;
+  margin: 0 46px 93px 0;
+  width: 75px;
+  height: 75px;
+}
+.detail-riwayat-pertemuan-selesai .lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-proin-efficitur-pellentesque-varius-nam-turpis-ante-ullamcorper-maximus-ornare-aaliquam-sed-odio-pellentesque-nec-ante-congue-fringilla-nisl-vitae-accumsan-tellus {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 22px;
+  color: #000000;
+}
+.detail-riwayat-pertemuan-selesai .container {
+  border-radius: 0 50px 50px 50px;
+  background: #D9D9D9;
+  position: relative;
+  padding: 34px 44px 35px 44px;
+  width: 1067px;
+  box-sizing: border-box;
+}
+.detail-riwayat-pertemuan-selesai .container-3 {
+  margin: 0 58px 42px 58px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.detail-riwayat-pertemuan-selesai .pellentesque-nec-ante-congue-fringilla-nisl-vitae-accumsan-tellus {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 22px;
+  color: #000000;
+}
+.detail-riwayat-pertemuan-selesai .container-5 {
+  border-radius: 50px 50px 0 50px;
+  border: 1px solid #000000;
+  background: #FFFFFF;
+  position: relative;
+  margin: 0 67px 72px 67px;
+  display: flex;
+  align-self: flex-end;
+  padding: 19px 47.7px 20px 39px;
+  box-sizing: border-box;
+}
+.detail-riwayat-pertemuan-selesai .line-83 {
+  background: rgba(0, 0, 0, 0.5);
+  margin: 33px 0 26px 0;
+  width: 565px;
+  height: 1px;
+}
+.detail-riwayat-pertemuan-selesai .pertemuan-selesai-pada-dd-mmyyyy-hhmm-wib {
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 20px;
+  color: rgba(0, 0, 0, 0.5);
+}
+.detail-riwayat-pertemuan-selesai .line-84 {
+  background: rgba(0, 0, 0, 0.5);
+  margin: 33px 0 26px 0;
+  width: 565px;
+  height: 1px;
+}
+.detail-riwayat-pertemuan-selesai .container-4 {
+  display: flex;
+  flex-direction: row;
+  column-gap: 26.7px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.detail-riwayat-pertemuan-selesai .container-2 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.detail-riwayat-pertemuan-selesai .rectangle-118 {
+  border-radius: 25px;
+  border: 1px solid rgba(0, 0, 0, 0.5);
+  position: absolute;
+  left: 57px;
+  top: 229px;
+  right: 58px;
+  height: 265px;
+}
+.detail-riwayat-pertemuan-selesai {
+  background: #FFFFFF;
+  display: flex;
+  padding: 64px 0 71px 0;
+  width: 1440px;
+  box-sizing: border-box;
+}

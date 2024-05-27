@@ -1,0 +1,303 @@
+.progress-4 .container {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 48px;
+  color: #000000;
+}
+.progress-4 .container-1 {
+  border-radius: 37.5px;
+  background: #D9D9D9;
+  position: relative;
+  display: flex;
+  padding: 3px 0.6px 0 0;
+  width: 75px;
+  box-sizing: border-box;
+}
+.progress-4 .belum-dikoreksi {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 24px;
+  color: #000000;
+}
+.progress-4 .container-13 {
+  border-radius: 50px;
+  border: 1px solid #000000;
+  position: relative;
+  display: flex;
+  padding: 20px 0 19px 0.4px;
+  width: 453px;
+  box-sizing: border-box;
+}
+.progress-4 .riwayat-koreksi {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 24px;
+  color: #FFFFFF;
+}
+.progress-4 .container {
+  border-radius: 50px;
+  background: rgba(80, 80, 80, 0.5);
+  position: relative;
+  display: flex;
+  padding: 20px 0.5px 19px 0;
+  width: 453px;
+  box-sizing: border-box;
+}
+.progress-4 .container-8 {
+  margin: 0 111px 47px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1195px;
+  box-sizing: border-box;
+}
+.progress-4 .line-15 {
+  background: rgba(0, 0, 0, 0.5);
+  margin: 0 0 44px 6px;
+  width: 1300px;
+  height: 1px;
+}
+.progress-4 .cari-berdasarkan-nama-mahasiswa-atau-nim {
+  margin: 11px 16.5px 6px 0;
+  display: inline-block;
+  width: 1107.5px;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 22px;
+  color: rgba(80, 80, 80, 0.65);
+}
+.progress-4 .line-21 {
+  background: #000000;
+  transform: rotate(-40.732deg);
+  margin-left: 2px;
+  width: 36.8px;
+  height: 1px;
+}
+.progress-4 .line-20 {
+  background: #000000;
+  transform: rotate(44.17deg);
+  margin-right: 3.8px;
+  width: 35px;
+  height: 1px;
+}
+.progress-4 .container-4 {
+  border-radius: 25px;
+  background: #D9D9D9;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 9.3px 6.2px 39px 5px;
+  width: 50px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.progress-4 .container-9 {
+  border-radius: 50px;
+  border: 1px solid rgba(0, 0, 0, 0.5);
+  position: relative;
+  margin-bottom: 47px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 19px 52px 18px 80px;
+  width: 1306px;
+  box-sizing: border-box;
+}
+.progress-4 .container-12 {
+  width: 160px;
+  height: 1px;
+}
+.progress-4 .container-15 {
+  background: #D9D9D9;
+  position: relative;
+  margin: 0 0 45px 24px;
+  display: flex;
+  width: 160px;
+  height: 160px;
+  box-sizing: border-box;
+}
+.progress-4 .progress-ke-xnim-nama-mahasiswa-subjek-dokumen-2 {
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 24px;
+  color: #000000;
+}
+.progress-ke-xnim-nama-mahasiswa-subjek-dokumen-2-sub15 {
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 22px;
+  line-height: 1.333;
+}
+.progress-ke-xnim-nama-mahasiswa-subjek-dokumen-2-sub14 {
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 25px;
+  line-height: 1.333;
+}
+.progress-ke-xnim-nama-mahasiswa-subjek-dokumen-2 {
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 22px;
+  line-height: 1.333;
+}
+.progress-4 .container-14 {
+  border-radius: 25px;
+  border: 1px solid rgba(0, 0, 0, 0.5);
+  position: relative;
+  margin-right: 71px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 390px;
+}
+.progress-4 .line-64 {
+  background: #000000;
+  transform: rotate(45deg);
+  margin-bottom: 3px;
+  width: 160px;
+  height: 1px;
+}
+.progress-4 .line-63 {
+  background: #000000;
+  transform: rotate(-45.184deg);
+  margin: 0 0px 0 5px;
+  width: 155px;
+  height: 1px;
+}
+.progress-4 .container-7 {
+  background: #D9D9D9;
+  position: relative;
+  margin-bottom: 45px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-bottom: 155px;
+  width: 160px;
+  box-sizing: border-box;
+}
+.progress-ke-xnim-nama-mahasiswa-subjek-dokumen-sub14 {
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 25px;
+  line-height: 1.333;
+}
+.progress-ke-xnim-nama-mahasiswa-subjek-dokumen {
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 22px;
+  line-height: 1.333;
+}
+.progress-4 .progress-ke-xnim-nama-mahasiswa-subjek-dokumen {
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 24px;
+  color: #000000;
+}
+.progress-ke-xnim-nama-mahasiswa-subjek-dokumen-sub15 {
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 22px;
+  line-height: 1.333;
+}
+.progress-4 .container-10 {
+  border-radius: 25px;
+  border: 1px solid rgba(0, 0, 0, 0.5);
+  position: relative;
+  margin-right: 59px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 390px;
+}
+.progress-4 .container-2 {
+  width: 160px;
+  height: 1px;
+}
+.progress-4 .container-11 {
+  background: #D9D9D9;
+  position: relative;
+  margin: 0 12px 45px 0;
+  display: flex;
+  padding-top: 4px;
+  width: 160px;
+  height: 160px;
+  box-sizing: border-box;
+}
+.progress-ke-xnim-nama-mahasiswa-subjek-dokumen-1-sub15 {
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 22px;
+  line-height: 1.333;
+}
+.progress-ke-xnim-nama-mahasiswa-subjek-dokumen-1-sub14 {
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 25px;
+  line-height: 1.333;
+}
+.progress-ke-xnim-nama-mahasiswa-subjek-dokumen-1 {
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 22px;
+  line-height: 1.333;
+}
+.progress-4 .progress-ke-xnim-nama-mahasiswa-subjek-dokumen-1 {
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 24px;
+  color: #000000;
+}
+.progress-4 .container-3 {
+  border-radius: 25px;
+  border: 1px solid rgba(0, 0, 0, 0.5);
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 390px;
+}
+.progress-4 .container-6 {
+  margin-left: 6px;
+  display: flex;
+  flex-direction: row;
+  width: 1300px;
+  box-sizing: border-box;
+}
+.progress-4 .container-5 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 1306px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.progress-4 .line-16 {
+  background: rgba(0, 0, 0, 0.5);
+  position: absolute;
+  top: 240px;
+  right: 230px;
+  width: 1px;
+  height: 88px;
+}
+.progress-4 {
+  background: #FFFFFF;
+  display: flex;
+  padding: 74px 76px 0 58px;
+  width: 1440px;
+  box-sizing: border-box;
+}

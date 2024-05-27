@@ -1,0 +1,75 @@
+<%- include('sidebar'); -%>
+
+<div id="container">
+  <div class="jumbotron">
+    <br />
+    <h4>Cari Rencana Pembelajaran Semester (RPS)</h4>
+    <form action="/mahasiswa/cari" class="search-form">
+      <i class="bx bx-search"></i>
+      <input type="search" name="term" placeholder="Cari kode atau nama mata kuliah" />
+      <input type="submit" value="Search" />
+    </form>
+  </div>
+
+  <!-- Link to DashboardMahasiswa -->
+  <div class="dashboard-link">
+    <a href="/mahasiswa/dashboard" class="btn btn-primary">Go to Dashboard</a>
+  </div>
+
+  <!-- Display some key components of the DashboardMahasiswa -->
+  <div class="dashboard-mahasiswa-preview">
+    <div class="container-5">
+      <div class="container-4">
+        <div class="line-12"></div>
+        <div class="line-13"></div>
+      </div>
+      <div class="nama-mahasiswa">
+        [Nama Mahasiswa]
+      </div>
+      <div class="nim-mahasiswa">
+        [NIM Mahasiswa]
+      </div>
+      <div class="line-14"></div>
+      <div class="progress-saya">
+        Progress Saya
+      </div>
+      <div class="penjadwalan">
+        Penjadwalan
+      </div>
+      <div class="container-2">
+        <span class="notifikasi">
+          Notifikasi
+        </span>
+        <div class="container-1">
+          <div class="line-18"></div>
+          <div class="line-19"></div>
+        </div>
+      </div>
+      <div class="chat">
+        Chat 
+      </div>
+      <span class="logout">
+        Logout
+      </span>
+    </div>
+    <div class="container-3">
+      <div class="container">
+        <div class="line-7"></div>
+        <div class="image-1"></div>
+        <div class="halo-nama-mahasiswa-ayo-selesaikan-tugas-akhirmu-agar-cepat-lulus">
+          Halo, [Nama Mahasiswa]<br />
+          Ayo selesaikan Tugas Akhirmu<br />
+          agar cepat lulus!
+        </div>
+        <div class="nama-dosen-sedang-memantau-progress-tugas-akhirmu-lho">
+          [Nama Dosen] sedang memantau progress <br />
+          Tugas Akhirmu lho.
+        </div>
+        <div class="image-2"></div>
+      </div>
+      <div class="line-8"></div>
+    </div>
+  </div>
+</div>
+
+<%- include('../partials/footer'); -%>

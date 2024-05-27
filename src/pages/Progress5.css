@@ -1,0 +1,327 @@
+.progress-5 .container {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 48px;
+  color: #000000;
+}
+.progress-5 .container-12 {
+  border-radius: 37.5px;
+  background: #D9D9D9;
+  position: relative;
+  display: flex;
+  padding: 3px 0.6px 0 0;
+  width: 75px;
+  box-sizing: border-box;
+}
+.progress-5 .buat-progress {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 24px;
+  color: #000000;
+}
+.progress-5 .container-13 {
+  border-radius: 50px;
+  border: 1px solid #000000;
+  position: relative;
+  display: flex;
+  padding: 20px 0 19px 20.8px;
+  width: 303px;
+  box-sizing: border-box;
+}
+.progress-5 .deadline-revisi {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 24px;
+  color: #000000;
+}
+.progress-5 .container-11 {
+  border-radius: 50px;
+  border: 1px solid #000000;
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  padding: 20px 2px 19px 0;
+  width: 308px;
+  box-sizing: border-box;
+}
+.progress-5 .riwayat-progress {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 24px;
+  color: #FFFFFF;
+}
+.progress-5 .container-6 {
+  border-radius: 50px;
+  background: rgba(80, 80, 80, 0.5);
+  position: relative;
+  display: flex;
+  padding: 20px 0 19px 5.8px;
+  width: 295px;
+  box-sizing: border-box;
+}
+.progress-5 .container-1 {
+  margin: 0 96px 49px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1216px;
+  box-sizing: border-box;
+}
+.progress-5 .line-41 {
+  background: rgba(0, 0, 0, 0.5);
+  margin: 0 0 31px 12px;
+  width: 1300px;
+  height: 1px;
+}
+.progress-5 .terkirim {
+  margin-right: 18px;
+  width: 505px;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 24px;
+  color: #000000;
+}
+.progress-5 .telah-dikoreksi {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 24px;
+  color: #000000;
+}
+.progress-5 .container-3 {
+  margin: 0 0 27px 53.6px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 711.6px;
+  box-sizing: border-box;
+}
+.progress-5 .line-15 {
+  background: rgba(0, 0, 0, 0.5);
+  margin: 0 0 66px 12px;
+  width: 1300px;
+  height: 1px;
+}
+.progress-5 .line-43 {
+  background: #000000;
+  transform: rotate(45.807deg);
+  width: 175px;
+  height: 1px;
+}
+.progress-5 .container-8 {
+  background: #FFFFFF;
+  position: relative;
+  margin: 0 1px 46px 0;
+  display: flex;
+  padding: 1px 2px 0 3px;
+  width: 180px;
+  height: 180px;
+  box-sizing: border-box;
+}
+.progress-5 .progress-ke-xsubjek-dokumen {
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 24px;
+  color: #000000;
+}
+.progress-ke-xsubjek-dokumen-sub13 {
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 1.333;
+}
+.progress-ke-xsubjek-dokumen {
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 25px;
+  line-height: 1.333;
+}
+.progress-5 .container-10 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.progress-5 .line-44 {
+  background: #000000;
+  transform: rotate(-44.356deg);
+  position: absolute;
+  left: 50%;
+  top: 51px;
+  translate: -50% 0;
+  width: 180px;
+  height: 1px;
+}
+.progress-5 .container-15 {
+  border-radius: 25px;
+  background: rgba(217, 217, 217, 0.5);
+  position: relative;
+  display: flex;
+  padding: 48px 0 57px 2px;
+  width: 395px;
+  box-sizing: border-box;
+}
+.progress-5 .line-45 {
+  background: #000000;
+  transform: rotate(45.807deg);
+  width: 175px;
+  height: 1px;
+}
+.progress-5 .container-2 {
+  background: #FFFFFF;
+  position: relative;
+  margin: 0 0 46px 1px;
+  display: flex;
+  padding: 1px 2px 0 3px;
+  width: 180px;
+  height: 180px;
+  box-sizing: border-box;
+}
+.progress-5 .progress-ke-xsubjek-dokumen-1 {
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 24px;
+  color: #000000;
+}
+.progress-ke-xsubjek-dokumen-1-sub13 {
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 1.333;
+}
+.progress-ke-xsubjek-dokumen-1 {
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 25px;
+  line-height: 1.333;
+}
+.progress-5 .container-9 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.progress-5 .line-46 {
+  background: #000000;
+  transform: rotate(-44.356deg);
+  position: absolute;
+  left: 50%;
+  top: 51px;
+  translate: -50% 0;
+  width: 180px;
+  height: 1px;
+}
+.progress-5 .container-14 {
+  border-radius: 25px;
+  background: rgba(217, 217, 217, 0.5);
+  position: relative;
+  display: flex;
+  padding: 48px 0 57px 0;
+  width: 395px;
+  box-sizing: border-box;
+}
+.progress-5 .line-47 {
+  background: #000000;
+  transform: rotate(45.807deg);
+  width: 175px;
+  height: 1px;
+}
+.progress-5 .container-4 {
+  background: #FFFFFF;
+  position: relative;
+  margin: 0 20.9px 46px 20.9px;
+  display: flex;
+  align-self: flex-start;
+  padding: 1px 2px 0 3px;
+  width: 180px;
+  height: 180px;
+  box-sizing: border-box;
+}
+.progress-5 .progress-ke-xsubjek-dokumen-2 {
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 24px;
+  color: #000000;
+}
+.progress-ke-xsubjek-dokumen-2-sub13 {
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 1.333;
+}
+.progress-ke-xsubjek-dokumen-2 {
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 25px;
+  line-height: 1.333;
+}
+.progress-5 .container-7 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.progress-5 .line-48 {
+  background: #000000;
+  transform: rotate(-44.356deg);
+  position: absolute;
+  left: 50%;
+  top: 51px;
+  translate: -50% 0;
+  width: 180px;
+  height: 1px;
+}
+.progress-5 .container {
+  border-radius: 25px;
+  background: rgba(217, 217, 217, 0.5);
+  position: relative;
+  display: flex;
+  padding: 48px 0 57px 20px;
+  width: 395px;
+  box-sizing: border-box;
+}
+.progress-5 .container-5 {
+  margin: 0 1px 0 12px;
+  display: flex;
+  flex-direction: row;
+  column-gap: 57px;
+  width: 1299px;
+  box-sizing: border-box;
+}
+.progress-5 .container-16 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 1312px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.progress-5 .line-40 {
+  background: rgba(0, 0, 0, 0.5);
+  position: absolute;
+  left: 305px;
+  top: 293px;
+  width: 263px;
+  height: 6px;
+}
+.progress-5 {
+  background: #FFFFFF;
+  display: flex;
+  padding: 74px 70px 0 58px;
+  width: 1440px;
+  box-sizing: border-box;
+}

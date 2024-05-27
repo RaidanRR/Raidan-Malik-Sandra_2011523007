@@ -1,0 +1,207 @@
+.dashboard-dosen .line-12 {
+  background: #000000;
+  transform: rotate(43.332deg);
+  position: relative;
+  width: 106px;
+  height: 1px;
+}
+.dashboard-dosen .line-13 {
+  background: #000000;
+  transform: rotate(-43.332deg);
+  position: absolute;
+  left: 50%;
+  top: 27px;
+  translate: -50% 0;
+  width: 106px;
+  height: 1px;
+}
+.dashboard-dosen .container-5 {
+  border-radius: 75px;
+  background: #FFFFFF;
+  position: relative;
+  margin: 0 12px 24px 0;
+  display: flex;
+  padding: 27px 0 0 2px;
+  width: 150px;
+  height: 150px;
+  box-sizing: border-box;
+}
+.dashboard-dosen .nama-dosen {
+  margin: 0 56.5px 10px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 22px;
+  color: #000000;
+}
+.dashboard-dosen .nip-dosen {
+  margin: 0 68.6px 38px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 20px;
+  color: #000000;
+}
+.dashboard-dosen .line-14 {
+  background: rgba(0, 0, 0, 0.5);
+  margin-bottom: 71px;
+  width: 380px;
+  height: 1px;
+}
+.dashboard-dosen .daftar-mahasiswa {
+  margin: 0 62.4px 47px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 24px;
+  color: #000000;
+}
+.dashboard-dosen .progress-mahasiswa {
+  margin: 0 24.5px 47px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 24px;
+  color: #000000;
+}
+.dashboard-dosen .penjadwalan {
+  margin: 0 117.7px 47px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 24px;
+  color: #000000;
+}
+.dashboard-dosen .notifikasi {
+  margin-right: 18px;
+  width: 160px;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 24px;
+  color: #000000;
+}
+.dashboard-dosen .line-18 {
+  background: #000000;
+  transform: rotate(46.397deg);
+  margin-right: 2.4px;
+  width: 20px;
+  height: 1px;
+}
+.dashboard-dosen .line-19 {
+  background: #000000;
+  transform: rotate(-46.469deg);
+  margin-left: 2px;
+  width: 20.4px;
+  height: 1px;
+}
+.dashboard-dosen .container-3 {
+  border-radius: 15px;
+  background: #A4A4A4;
+  position: relative;
+  margin: 3px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 5px 3.6px 23.5px 4px;
+  width: 30px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.dashboard-dosen .container-2 {
+  margin: 0 72px 47px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 208px;
+  box-sizing: border-box;
+}
+.dashboard-dosen .chat {
+  margin: 0 219.5px 113px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 24px;
+  color: #000000;
+}
+.dashboard-dosen .logout {
+  margin-right: 195.7px;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 24px;
+  color: #000000;
+}
+.dashboard-dosen .container {
+  background: #D9D9D9;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 93px 13px 57px 24px;
+  width: 417px;
+  box-sizing: border-box;
+}
+.dashboard-dosen .line-7 {
+  background: #000000;
+  transform: rotate(134.972deg);
+  margin-bottom: 438px;
+  width: 1023px;
+  height: 1px;
+}
+.dashboard-dosen .selamat-datang-nama-dosen-pantau-progress-tugas-akhir-mahasiswa-bimbinganmu-di-sini {
+  margin: 0 175.3px 36px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 32px;
+  color: #000000;
+}
+.dashboard-dosen .ada-xmahasiswa-yang-menunggu-responmu-untuk-revisi-tugas-akhir-mereka {
+  margin-right: 250px;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 20px;
+  color: #000000;
+}
+.dashboard-dosen .container-1 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 1023px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.dashboard-dosen .line-8 {
+  background: #000000;
+  transform: rotate(45.028deg);
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  height: 1px;
+}
+.dashboard-dosen .container-4 {
+  position: relative;
+  margin-bottom: 345px;
+  display: flex;
+  width: 1023px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.dashboard-dosen {
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: row;
+  width: 1440px;
+  box-sizing: border-box;
+}

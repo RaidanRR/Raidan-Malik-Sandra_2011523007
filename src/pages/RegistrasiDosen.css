@@ -1,0 +1,321 @@
+.registrasi-dosen .line-1 {
+  background: #000000;
+  transform: rotate(144.583deg);
+  margin-bottom: 228px;
+  width: 1440px;
+  height: 1px;
+}
+.registrasi-dosen .registrasikan-akun-anda {
+  margin: 0 29.5px 34px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 20px;
+  color: #000000;
+}
+.registrasi-dosen .nama-lengkap {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 16px;
+  color: rgba(0, 0, 0, 0.35);
+}
+.registrasi-dosen .container-9 {
+  border-radius: 50px;
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  padding: 15px 126.6px 16px 0;
+  width: 325px;
+  box-sizing: border-box;
+}
+.registrasi-dosen .gelar {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 16px;
+  color: rgba(0, 0, 0, 0.35);
+}
+.registrasi-dosen .container-7 {
+  border-radius: 50px;
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  padding: 15px 207.9px 16px 0;
+  width: 325px;
+  box-sizing: border-box;
+}
+.registrasi-dosen .container-5 {
+  margin-bottom: 20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 733px;
+  box-sizing: border-box;
+}
+.registrasi-dosen .nip {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 16px;
+  color: rgba(0, 0, 0, 0.35);
+}
+.registrasi-dosen .container-10 {
+  border-radius: 50px;
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  padding: 16px 220.6px 15px 0;
+  width: 325px;
+  box-sizing: border-box;
+}
+.registrasi-dosen .bidang-keahlian {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 16px;
+  color: rgba(0, 0, 0, 0.35);
+}
+.registrasi-dosen .container-13 {
+  border-radius: 50px;
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  padding: 16px 120.8px 15px 0;
+  width: 325px;
+  box-sizing: border-box;
+}
+.registrasi-dosen .container-8 {
+  margin-bottom: 20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 733px;
+  box-sizing: border-box;
+}
+.registrasi-dosen .email {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 16px;
+  color: rgba(0, 0, 0, 0.35);
+}
+.registrasi-dosen .container-12 {
+  border-radius: 50px;
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  padding: 16px 205.6px 15px 0;
+  width: 321px;
+  box-sizing: border-box;
+}
+.registrasi-dosen .departemen {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 16px;
+  color: rgba(0, 0, 0, 0.35);
+}
+.registrasi-dosen .container-14 {
+  border-radius: 50px;
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  padding: 16px 143.8px 15px 0;
+  width: 325px;
+  box-sizing: border-box;
+}
+.registrasi-dosen .container-1 {
+  margin: 0 3px 20px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 730px;
+  box-sizing: border-box;
+}
+.registrasi-dosen .nomor-telepon {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 16px;
+  color: rgba(0, 0, 0, 0.35);
+}
+.registrasi-dosen .container-4 {
+  border-radius: 50px;
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  padding: 16px 129.7px 15px 0;
+  width: 321px;
+  box-sizing: border-box;
+}
+.registrasi-dosen .jabatan {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 16px;
+  color: rgba(0, 0, 0, 0.35);
+}
+.registrasi-dosen .container {
+  border-radius: 50px;
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  padding: 16px 183.2px 15px 0;
+  width: 325px;
+  box-sizing: border-box;
+}
+.registrasi-dosen .container-2 {
+  margin-bottom: 20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 733px;
+  box-sizing: border-box;
+}
+.registrasi-dosen .kata-sandi {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 16px;
+  color: rgba(0, 0, 0, 0.35);
+}
+.registrasi-dosen .container-11 {
+  border-radius: 50px;
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  padding: 15px 163.5px 16px 0;
+  width: 321px;
+  box-sizing: border-box;
+}
+.registrasi-dosen .daftarkan {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 16px;
+  color: #000000;
+}
+.registrasi-dosen .container-3 {
+  border-radius: 50px;
+  background: #BBBBBB;
+  position: relative;
+  display: flex;
+  padding: 15px 0 16px 3.8px;
+  width: 325px;
+  box-sizing: border-box;
+}
+.registrasi-dosen .container-17 {
+  margin-bottom: 27px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 733px;
+  box-sizing: border-box;
+}
+.registrasi-dosen .rectangle-13 {
+  border-radius: 5px;
+  background: #FFFFFF;
+  margin-right: 17px;
+  width: 25px;
+  height: 25px;
+}
+.registrasi-dosen .ingat-saya {
+  margin-top: 4px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 14px;
+  color: #000000;
+}
+.registrasi-dosen .container-18 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.registrasi-dosen .sudah-punya-akun-login-di-sini {
+  margin-bottom: 4px;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 14px;
+  color: #000000;
+}
+.sudah-punya-akun-login-di-sini {
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 1.333;
+}
+.registrasi-dosen .container-6 {
+  margin-right: 46.5px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 686.5px;
+  box-sizing: border-box;
+}
+.registrasi-dosen .container-16 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 733px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.registrasi-dosen .container {
+  position: absolute;
+  top: 133px;
+  right: 106.5px;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 40px;
+  color: #000000;
+}
+.registrasi-dosen .container-1 {
+  position: absolute;
+  right: 106.5px;
+  bottom: 220px;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 40px;
+  color: #000000;
+}
+.registrasi-dosen .container-19 {
+  border-radius: 50px;
+  background: #D9D9D9;
+  position: relative;
+  display: flex;
+  padding: 55px 61px 39px 61px;
+  width: 884px;
+  box-sizing: border-box;
+}
+.registrasi-dosen .container-15 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 1440px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.registrasi-dosen .line-2 {
+  background: #000000;
+  transform: rotate(35.205deg);
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  height: 1px;
+}
+.registrasi-dosen {
+  background: #FFFFFF;
+  display: flex;
+  width: 1440px;
+  box-sizing: border-box;
+}

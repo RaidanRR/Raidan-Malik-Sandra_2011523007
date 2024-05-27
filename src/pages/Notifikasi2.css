@@ -1,0 +1,279 @@
+.notifikasi-2 .container {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 48px;
+  color: #000000;
+}
+.notifikasi-2 .container-2 {
+  border-radius: 37.5px;
+  background: #D9D9D9;
+  position: relative;
+  display: flex;
+  padding: 3px 0.6px 0 0;
+  width: 75px;
+  box-sizing: border-box;
+}
+.notifikasi-2 .progress-saya {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 24px;
+  color: #000000;
+}
+.notifikasi-2 .container-5 {
+  border-radius: 50px;
+  border: 1px solid #000000;
+  position: relative;
+  display: flex;
+  padding: 20px 0.7px 19px 0;
+  width: 453px;
+  box-sizing: border-box;
+}
+.notifikasi-2 .penjadwalan {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 24px;
+  color: #FFFFFF;
+}
+.notifikasi-2 .container-10 {
+  border-radius: 50px;
+  background: rgba(0, 0, 0, 0.35);
+  position: relative;
+  display: flex;
+  padding: 20px 0.8px 19px 0;
+  width: 453px;
+  box-sizing: border-box;
+}
+.notifikasi-2 .container-4 {
+  margin-bottom: 47px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 1171px;
+  box-sizing: border-box;
+}
+.notifikasi-2 .line-15 {
+  background: rgba(0, 0, 0, 0.5);
+  margin: 0 0 46px 6px;
+  width: 1300px;
+  height: 1px;
+}
+.notifikasi-2 .pertemuan-ke-xdosen-pembimbing-menerima-permintaan-pertemuan {
+  margin-bottom: 21px;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 24px;
+  color: #000000;
+}
+.pertemuan-ke-xdosen-pembimbing-menerima-permintaan-pertemuan-sub13 {
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 1.333;
+}
+.pertemuan-ke-xdosen-pembimbing-menerima-permintaan-pertemuan {
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 25px;
+  line-height: 1.333;
+}
+.notifikasi-2 .ddmmyyyy-hhmm {
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 20px;
+  color: #000000;
+}
+.notifikasi-2 .container-8 {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.notifikasi-2 .lihat-detail {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 20px;
+  color: #000000;
+}
+.notifikasi-2 .container-9 {
+  border-radius: 20px;
+  border: 1px solid #000000;
+  position: relative;
+  margin: 37px 0 23px 0;
+  display: flex;
+  padding: 18px 0.6px 17px 0;
+  width: 167px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.notifikasi-2 .container-7 {
+  border-radius: 25px;
+  background: rgba(217, 217, 217, 0.5);
+  position: relative;
+  margin: 0 5px 49px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 18px 88px 32px 82px;
+  width: 1301px;
+  box-sizing: border-box;
+}
+.notifikasi-2 .yang-sudah-dibuka {
+  margin-right: 15px;
+  width: 215px;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 20px;
+  color: rgba(0, 0, 0, 0.5);
+}
+.notifikasi-2 .line-17 {
+  background: #000000;
+  margin: 15px 0 14px 0;
+  width: 1053px;
+  height: 1px;
+}
+.notifikasi-2 .container-6 {
+  margin: 0 17px 74px 6px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1283px;
+  box-sizing: border-box;
+}
+.pertemuan-ke-xdosen-pembimbing-menolak-permintaan-pertemuan {
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 25px;
+  line-height: 1.333;
+}
+.notifikasi-2 .pertemuan-ke-xdosen-pembimbing-menolak-permintaan-pertemuan {
+  margin: 0 82px 21px 82px;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 24px;
+  color: #000000;
+}
+.pertemuan-ke-xdosen-pembimbing-menolak-permintaan-pertemuan-sub13 {
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 1.333;
+}
+.notifikasi-2 .ddmmyyyy-hhmm-1 {
+  margin: 0 82px 97px 82px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 20px;
+  color: #000000;
+}
+.pertemuan-ke-xdosen-pembimbing-membalas-chat-anda-sub13 {
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 1.333;
+}
+.pertemuan-ke-xdosen-pembimbing-membalas-chat-anda {
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 25px;
+  line-height: 1.333;
+}
+.notifikasi-2 .pertemuan-ke-xdosen-pembimbing-membalas-chat-anda {
+  margin: 0 82px 21px 82px;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 24px;
+  color: #000000;
+}
+.notifikasi-2 .ddmmyyyy-hhmm-2 {
+  margin: 0 82px;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 20px;
+  color: #000000;
+}
+.notifikasi-2 .container {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.notifikasi-2 .rectangle-34 {
+  border-radius: 20px;
+  border: 1px solid #000000;
+  position: absolute;
+  top: 55px;
+  right: 93px;
+  width: 167px;
+  height: 65px;
+}
+.notifikasi-2 .lihat-detail-1 {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 20px;
+  color: #000000;
+}
+.notifikasi-2 .container-1 {
+  border-radius: 25px;
+  border: 1px solid rgba(0, 0, 0, 0.5);
+  position: absolute;
+  left: 63px;
+  right: 76px;
+  bottom: 303px;
+  display: flex;
+  padding: 73px 120.6px 72px 120.6px;
+  box-sizing: border-box;
+}
+.notifikasi-2 .rectangle-35 {
+  border-radius: 20px;
+  border: 1px solid #000000;
+  position: absolute;
+  top: 55px;
+  right: 88px;
+  width: 167px;
+  height: 65px;
+}
+.notifikasi-2 .lihat-detail-2 {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 20px;
+  color: #000000;
+}
+.notifikasi-2 .container-3 {
+  border-radius: 25px;
+  border: 1px solid rgba(0, 0, 0, 0.5);
+  position: absolute;
+  left: 58px;
+  right: 81px;
+  bottom: 81px;
+  display: flex;
+  padding: 73px 115.6px 72px 115.6px;
+  box-sizing: border-box;
+}
+.notifikasi-2 {
+  background: #FFFFFF;
+  display: flex;
+  padding: 74px 76px 106px 58px;
+  width: 1440px;
+  box-sizing: border-box;
+}

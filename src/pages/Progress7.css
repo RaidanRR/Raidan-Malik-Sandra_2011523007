@@ -1,0 +1,265 @@
+.progress-7 .container {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 48px;
+  color: #000000;
+}
+.progress-7 .container-9 {
+  border-radius: 37.5px;
+  background: #D9D9D9;
+  position: relative;
+  display: flex;
+  padding: 3px 0.6px 0 0;
+  width: 75px;
+  box-sizing: border-box;
+}
+.progress-7 .buat-progress {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 24px;
+  color: #000000;
+}
+.progress-7 .container {
+  border-radius: 50px;
+  border: 1px solid #000000;
+  position: relative;
+  display: flex;
+  padding: 20px 0 19px 20.8px;
+  width: 303px;
+  box-sizing: border-box;
+}
+.progress-7 .deadline-revisi {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 24px;
+  color: #FFFFFF;
+}
+.progress-7 .container-5 {
+  border-radius: 50px;
+  background: rgba(80, 80, 80, 0.5);
+  position: relative;
+  display: flex;
+  padding: 20px 2px 19px 0;
+  width: 308px;
+  box-sizing: border-box;
+}
+.progress-7 .riwayat-progress {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 24px;
+  color: #000000;
+}
+.progress-7 .container-7 {
+  border-radius: 50px;
+  border: 1px solid #000000;
+  position: relative;
+  display: flex;
+  padding: 20px 0 19px 5.8px;
+  width: 295px;
+  box-sizing: border-box;
+}
+.progress-7 .container-10 {
+  margin-bottom: 47px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 1216px;
+  box-sizing: border-box;
+}
+.progress-7 .line-15 {
+  background: rgba(0, 0, 0, 0.5);
+  margin: 0 8px 65px 6px;
+  width: 1300px;
+  height: 1px;
+}
+.progress-7 .line-86 {
+  background: #000000;
+  transform: rotate(46.848deg);
+  position: relative;
+  width: 165px;
+  height: 1px;
+}
+.progress-7 .line-87 {
+  background: #000000;
+  transform: rotate(-46.848deg);
+  position: absolute;
+  left: 50%;
+  top: 0px;
+  translate: -50% 0;
+  width: 165px;
+  height: 1px;
+}
+.progress-7 .container-2 {
+  background: #FFFFFF;
+  position: relative;
+  margin-right: 39px;
+  display: flex;
+  padding: 0px 0px 0 0;
+  width: 165px;
+  height: 176px;
+  box-sizing: border-box;
+}
+.progress-7 .progress-ke-xsubjek-dokumen {
+  margin-bottom: 22px;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 24px;
+  color: #000000;
+}
+.progress-ke-xsubjek-dokumen-sub13 {
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 1.333;
+}
+.progress-ke-xsubjek-dokumen {
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 25px;
+  line-height: 1.333;
+}
+.progress-7 .telah-dikoreksi-pada-dd-mmyyyyy {
+  margin-left: 1px;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 20px;
+  color: #000000;
+}
+.progress-7 .container-8 {
+  margin: 29px 0 21px 0;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.progress-7 .container-3 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.progress-7 .deadline-dd-mmyyyyy {
+  margin: 48px 0 62px 0;
+  display: inline-block;
+  text-align: right;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 22px;
+  color: #000000;
+}
+.progress-7 .container-12 {
+  border-radius: 50px;
+  background: #D9D9D9;
+  position: relative;
+  margin: 0 0 47px 9px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 41px 63px 49px 74px;
+  width: 1305px;
+  box-sizing: border-box;
+}
+.progress-7 .line-88 {
+  background: #000000;
+  transform: rotate(46.848deg);
+  position: relative;
+  width: 165px;
+  height: 1px;
+}
+.progress-7 .line-89 {
+  background: #000000;
+  transform: rotate(-46.848deg);
+  position: absolute;
+  left: 50%;
+  top: 0px;
+  translate: -50% 0;
+  width: 165px;
+  height: 1px;
+}
+.progress-7 .container-4 {
+  background: #FFFFFF;
+  position: relative;
+  margin-right: 39px;
+  display: flex;
+  padding: 0px 0px 0 0;
+  width: 165px;
+  height: 176px;
+  box-sizing: border-box;
+}
+.progress-7 .progress-ke-xsubjek-dokumen-1 {
+  margin-bottom: 22px;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 24px;
+  color: #000000;
+}
+.progress-ke-xsubjek-dokumen-1-sub13 {
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 1.333;
+}
+.progress-ke-xsubjek-dokumen-1 {
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 25px;
+  line-height: 1.333;
+}
+.progress-7 .telah-dikoreksi-pada-dd-mmyyyyy-1 {
+  margin-left: 1px;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 20px;
+  color: #000000;
+}
+.progress-7 .container-6 {
+  margin: 29px 0 21px 0;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.progress-7 .container-1 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.progress-7 .deadline-dd-mmyyyyy-1 {
+  margin: 48px 0 62px 0;
+  display: inline-block;
+  text-align: right;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 22px;
+  color: #000000;
+}
+.progress-7 .container-11 {
+  border-radius: 50px;
+  background: #D9D9D9;
+  position: relative;
+  margin: 0 3px 0 6px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 41px 63px 49px 74px;
+  width: 1305px;
+  box-sizing: border-box;
+}
+.progress-7 {
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  padding: 74px 68px 183px 58px;
+  width: 1440px;
+  box-sizing: border-box;
+}

@@ -30,11 +30,40 @@
         </li>
         </ul>
         
+            
+            <ul class="nav navbar-right ">
+                <li class="nav-item">
+                    <% if (user) { %>
+                      <li class="welcome">
+                          Welcome, <%= user.name %>
+                      </li>
+                      <% } %>
+                      <a class="nav-link" href="#" id="user">
+                        <i  class='bx-fw bx bxs-user-circle bx-sm'></i>
+                        <% if (user.type == "D") { %>
+                           Dosen
+                        <% } else if(user.type == "T") { %>
+                            Admin
+                        <% } else { %>
+                            Mahasiswa
+                        <% } %>
+                      </a>
+                  </li>
+            </ul>
 
     </nav>
 
     <div class="sidebar close">
         <ul class="nav-links">
+            <li>
+                <a href="/mahasiswa/profil">
+                <i class='bx bx-user bx-sm' ></i>
+                <span class="link_name">Profil</span>
+                </a>
+                <ul class="sub-menu blank">
+                <li><a class="link_name" href="#">Profil</a></li>
+                </ul>    
+            </li>
             <li>
                 <a href="/mahasiswa/home">                
                     <i class='bx bx-home-alt bx-sm'></i>
@@ -47,10 +76,28 @@
             <li>
                 <a href="/mahasiswa/coursesPlan">
                 <i class='bx bx-folder bx-sm' ></i>
-                <span class="link_name">Mata Kuliah</span>
+                <span class="link_name">Penjadwalan</span>
                 </a>
                 <ul class="sub-menu blank">
-                <li><a class="link_name" href="#">Mata Kuliah</a></li>
+                <li><a class="link_name" href="#">Penjadwalan</a></li>
+                </ul>    
+            </li>
+            <li>
+                <a href="/mahasiswa/progress-saya">
+                <i class='bx bx-folder bx-sm' ></i>
+                <span class="link_name">Progress Saya</span>
+                </a>
+                <ul class="sub-menu blank">
+                <li><a class="link_name" href="#">Progress Saya</a></li>
+                </ul>    
+            </li>
+            <li>
+                <a href="/mahasiswa/notifikasi">
+                <i class='bx bx-bell bx-sm' ></i>
+                <span class="link_name">Notifikasi</span>
+                </a>
+                <ul class="sub-menu blank">
+                <li><a class="link_name" href="#">Notifikasi</a></li>
                 </ul>    
             </li>
 

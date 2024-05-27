@@ -1,0 +1,321 @@
+.penjadwalan-11 .rectangle-31 {
+  border-radius: 5px;
+  background: #D9D9D9;
+  width: 35px;
+  height: 35px;
+}
+.penjadwalan-11 .container-4 {
+  border-radius: 50px;
+  border: 1px solid rgba(0, 0, 0, 0.5);
+  position: absolute;
+  top: 343px;
+  right: 138px;
+  padding: 20px 52px;
+  width: 870px;
+  height: 75px;
+  box-sizing: border-box;
+}
+.penjadwalan-11 .rectangle-35 {
+  border-radius: 5px;
+  background: #D9D9D9;
+  width: 35px;
+  height: 35px;
+}
+.penjadwalan-11 .container-7 {
+  border-radius: 50px;
+  border: 1px solid rgba(0, 0, 0, 0.5);
+  position: absolute;
+  top: 461px;
+  right: 138px;
+  padding: 19px 52px 21px 52px;
+  width: 870px;
+  height: 75px;
+  box-sizing: border-box;
+}
+.penjadwalan-11 .container-2 {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 48px;
+  color: #000000;
+}
+.penjadwalan-11 .container-3 {
+  border-radius: 37.5px;
+  background: #D9D9D9;
+  position: relative;
+  margin: 0 77px 2px 0;
+  display: flex;
+  padding: 3px 0.6px 0 0;
+  width: 75px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.penjadwalan-11 .buat-janji {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 24px;
+  color: #FFFFFF;
+}
+.penjadwalan-11 .container-13 {
+  border-radius: 50px;
+  background: rgba(0, 0, 0, 0.35);
+  position: relative;
+  margin: 2px 50px 0 0;
+  display: flex;
+  padding: 19px 0 20px 2.6px;
+  width: 245px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.penjadwalan-11 .hari-ini {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 24px;
+  color: #000000;
+}
+.penjadwalan-11 .container-9 {
+  border-radius: 50px;
+  border: 1px solid #000000;
+  position: relative;
+  margin: 0 50px 2px 0;
+  display: flex;
+  padding: 21px 0 18px 2.6px;
+  width: 180px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.penjadwalan-11 .mendatang {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 24px;
+  color: #000000;
+}
+.penjadwalan-11 .container-15 {
+  border-radius: 50px;
+  border: 1px solid #000000;
+  position: relative;
+  margin: 2px 50px 0 0;
+  display: flex;
+  padding: 19px 0 20px 8.1px;
+  width: 246px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.penjadwalan-11 .riwayat-pertemuan {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 24px;
+  color: #000000;
+}
+.penjadwalan-11 .container-10 {
+  border-radius: 50px;
+  border: 1px solid #000000;
+  position: relative;
+  margin-bottom: 2px;
+  display: flex;
+  padding: 19px 2.3px 20px 0;
+  width: 323px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.penjadwalan-11 .container-8 {
+  margin: 0 4px 54px 0;
+  display: flex;
+  flex-direction: row;
+  width: 1296px;
+  box-sizing: border-box;
+}
+.penjadwalan-11 .line-15 {
+  background: rgba(0, 0, 0, 0.5);
+  margin-bottom: 31px;
+  width: 1300px;
+  height: 1px;
+}
+.penjadwalan-11 .mahasiswa {
+  margin: 18px 45.3px 21px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 24px;
+  color: #000000;
+}
+.penjadwalan-11 .container-3 {
+  margin: 6px 46px 12px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 36px;
+  color: #000000;
+}
+.penjadwalan-11 .line-76 {
+  background: rgba(0, 0, 0, 0.5);
+  width: 1px;
+  height: 72px;
+}
+.penjadwalan-11 .container-14 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.penjadwalan-11 .tambah-nama-mahasiswa {
+  margin: 16px 0 23px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 22px;
+  color: #000000;
+}
+.penjadwalan-11 .container-16 {
+  border-radius: 50px;
+  border: 1px solid rgba(0, 0, 0, 0.5);
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 3px 0 0 57.7px;
+  width: 870px;
+  box-sizing: border-box;
+}
+.penjadwalan-11 .container {
+  margin: 0 62px 61px 62px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.penjadwalan-11 .tanggal {
+  margin: 0 18px 37.5px 0;
+  display: inline-block;
+  width: 910.5px;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 24px;
+  color: #000000;
+}
+.penjadwalan-11 .container {
+  position: relative;
+  margin-top: 1.5px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 48px;
+  color: #000000;
+}
+.penjadwalan-11 .container-1 {
+  margin: 0 122.1px 45.5px 122.1px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 957.9px;
+  box-sizing: border-box;
+}
+.penjadwalan-11 .waktu {
+  margin: 3px 18px 33px 0;
+  display: inline-block;
+  width: 891px;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 24px;
+  color: #000000;
+}
+.penjadwalan-11 .container-1 {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 48px;
+  color: #000000;
+}
+.penjadwalan-11 .container-5 {
+  margin: 0 121.6px 19px 121.6px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 938.4px;
+  box-sizing: border-box;
+}
+.penjadwalan-11 .tempat {
+  margin: 26px 45.3px 13px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 24px;
+  color: #000000;
+}
+.penjadwalan-11 .rectangle-21 {
+  border-radius: 50px;
+  border: 1px solid rgba(0, 0, 0, 0.5);
+  width: 870px;
+  height: 75px;
+}
+.penjadwalan-11 .container-11 {
+  margin: 0 62px 38px 62px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.penjadwalan-11 .pesan-untuk-mahasiswa {
+  margin: 27px 47px 105px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 24px;
+  color: #000000;
+}
+.penjadwalan-11 .rectangle-18 {
+  border-radius: 25px;
+  border: 1px solid rgba(0, 0, 0, 0.5);
+  width: 865px;
+  height: 168px;
+}
+.penjadwalan-11 .container-2 {
+  margin: 0 65px 45px 19px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.penjadwalan-11 .kirim {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 24px;
+  color: #000000;
+}
+.penjadwalan-11 .container-12 {
+  border-radius: 50px;
+  background: #D9D9D9;
+  position: relative;
+  margin: 0 60px;
+  display: flex;
+  padding: 18px 0 18px 8.7px;
+  width: 229px;
+  box-sizing: border-box;
+}
+.penjadwalan-11 .container-6 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  box-sizing: border-box;
+}
+.penjadwalan-1 {
+  background: #FFFFFF;
+  display: flex;
+  padding: 65px 76px 52px 64px;
+  width: 1440px;
+  box-sizing: border-box;
+}
