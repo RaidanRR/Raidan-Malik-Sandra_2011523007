@@ -1,0 +1,177 @@
+.referensi-ta-1 .container {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 48px;
+  color: #000000;
+}
+.referensi-ta-1 .container-3 {
+  border-radius: 37.5px;
+  background: #D9D9D9;
+  position: relative;
+  margin-right: 52px;
+  display: flex;
+  padding: 3px 0.6px 0 0;
+  width: 75px;
+  box-sizing: border-box;
+}
+.referensi-ta-1 .referensi-ta-mahasiswa-fakultas-teknologi-informasi {
+  margin: 15px 0 18px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 28px;
+  color: #000000;
+}
+.referensi-ta-1 .container-4 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.referensi-ta-1 .desain-tanpa-judul-381 {
+  background: url('assets/images/DesainTanpaJudul381.png') 50% / cover no-repeat;
+  margin: 3px 0 7px 0;
+  width: 65px;
+  height: 65px;
+}
+.referensi-ta-1 .container-8 {
+  margin: 0 68px 32px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1244px;
+  box-sizing: border-box;
+}
+.referensi-ta-1 .line-15 {
+  background: rgba(0, 0, 0, 0.5);
+  margin: 0 0 46px 12px;
+  width: 1300px;
+  height: 1px;
+}
+.referensi-ta-1 .sistem-informasi {
+  margin: 15px 22.5px 2px 0;
+  display: inline-block;
+  width: 943.5px;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 30px;
+  color: #000000;
+}
+.referensi-ta-1 .lihat-daftar {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 22px;
+  color: #000000;
+}
+.referensi-ta-1 .container-2 {
+  border-radius: 25px;
+  background: rgba(217, 217, 217, 0.5);
+  position: relative;
+  display: flex;
+  padding: 14px 0.9px 15px 0;
+  width: 209px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.referensi-ta-1 .container {
+  border-radius: 25px;
+  border: 1px solid rgba(0, 0, 0, 0.5);
+  position: relative;
+  margin: 0 0 41px 10px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 45px 61px 44px 66px;
+  width: 1302px;
+  box-sizing: border-box;
+}
+.referensi-ta-1 .teknik-komputer {
+  margin: 13px 22.5px 4px 0;
+  display: inline-block;
+  width: 943.5px;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 30px;
+  color: #000000;
+}
+.referensi-ta-1 .lihat-daftar-2 {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 22px;
+  color: #000000;
+}
+.referensi-ta-1 .container-7 {
+  border-radius: 25px;
+  background: rgba(217, 217, 217, 0.5);
+  position: relative;
+  display: flex;
+  padding: 14px 0.9px 15px 0;
+  width: 209px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.referensi-ta-1 .container-6 {
+  border-radius: 25px;
+  border: 1px solid rgba(0, 0, 0, 0.5);
+  position: relative;
+  margin: 0 0 44px 10px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 45px 61px 44px 66px;
+  width: 1302px;
+  box-sizing: border-box;
+}
+.referensi-ta-1 .informatika {
+  margin: 11px 22.5px 6px 0;
+  display: inline-block;
+  width: 944.5px;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 30px;
+  color: #000000;
+}
+.referensi-ta-1 .lihat-daftar-1 {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 22px;
+  color: #000000;
+}
+.referensi-ta-1 .container-5 {
+  border-radius: 25px;
+  background: rgba(217, 217, 217, 0.5);
+  position: relative;
+  display: flex;
+  padding: 14px 0.9px 15px 0;
+  width: 209px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.referensi-ta-1 .container-1 {
+  border-radius: 25px;
+  border: 1px solid rgba(0, 0, 0, 0.5);
+  position: relative;
+  margin-left: 10px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 45px 61px 44px 65px;
+  width: 1302px;
+  box-sizing: border-box;
+}
+.referensi-ta-1 {
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 67px 70px 265px 58px;
+  width: 1440px;
+  box-sizing: border-box;
+}

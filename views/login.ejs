@@ -26,8 +26,8 @@
         <div class="container-login100-form-btn m-t-30 flexible">
           <button class="login100-form-btn" type="submit">LOGIN</button>
         </div>
-        <a href="/mahasiswa/home" class="txt2 bo1">Masuk sebagai Mahasiswa</a>
-        <a href="/signup" class="txt2 bo1">signup jika belum mememiliki akun</a>
+        
+        <a href="/auth/signup" class="txt2 bo1">signup jika belum mememiliki akun</a>
       </form>
     </div>
   </div>
@@ -42,11 +42,11 @@
   form.addEventListener("submit", async (e) => {
     e.preventDefault();
 
-    // reset errors
+   
     emailError.textContent = "";
     passwordError.textContent = "";
 
-    // get values
+  
     const email = form.email.value;
     const password = form.password.value;
 

@@ -17,48 +17,75 @@
     <div id="container">
       <div class="jumbotron">
         <br />
-        <h4>Profil</h4>
-        <div class="profil-info">
-          <div class="profil-field">
-            <label for="foto">Foto Profil:</label>
-            <img src="<%= userData.foto %>" alt="Foto Profil">
-          </div>
-          <div class="profil-field">
-            <label for="nama">Nama Mahasiswa:</label>
-            <span><%= userData.nama %></span>
-          </div>
-          <div class="profil-field">
-            <label for="nim">NIM Mahasiswa:</label>
-            <span><%= userData.nim %></span>
-          </div>
-          <div class="profil-field">
-            <label for="judul">Judul Tugas Akhir:</label>
-            <span><%= userData.judul %></span>
-          </div>
-          <div class="profil-field">
-            <label for="dosen">Dosen Pembimbing:</label>
-            <span><%= userData.dosen %></span>
-          </div>
-          <div class="profil-field">
-            <label for="fakultas">Fakultas:</label>
-            <span><%= userData.fakultas %></span>
-          </div>
-          <div class="profil-field">
-            <label for="jurusan">Jurusan:</label>
-            <span><%= userData.jurusan %></span>
-          </div>
-          <div class="profil-field">
-            <label for="prodi">Program Studi:</label>
-            <span><%= userData.prodi %></span>
-          </div>
-          <div class="profil-field">
-            <label for="semester">Semester:</label>
-            <span><%= userData.semester %></span>
+        <h4>Profil Mahasiswa</h4>
+        <div class="mb-3">
+          <div class="profile-picture">
+            <img src="/images/<%=user.foto%>" alt="Profile Picture" style="width: 110px;height: 110px;object-fit: cover;margin-left: auto; margin-right: auto;">
           </div>
         </div>
-        <a href="/mahasiswa/profil-edit" class="btn btn-primary">Edit Profil</a>
+        <form class="mb-3" action="/mahasiswa/profil-edit/<%= user.id %>" method="POST" enctype="multipart/form-data" onsubmit="return success(event)">
+          <div class="mb-3" >
+            <label for="foto" class="form-label"></label>
+            <input type="file" class="form-control" id="foto" name="foto" value="<%= user.foto %>"required>
+          </div>
+            <button class="btn btn-warning " type="submit" >Simpan</button>
+        </form>
+        <div class="mb-3">
+          <label for="name" class="form-label">Nama Mahasiswa</label>
+          <input type="text" class="form-control" id="name" name="name" value="<%= user.name %>" readonly>
+        </div>
+        <div class="mb-3">
+          <label for="Email" class="form-label">Email</label>
+          <input type="text" class="form-control" id="Email" name="Email" value="<%= user.email %>" readonly>
+        </div>
+        <div class="mb-3">
+          <label for="phone" class="form-label">Nomor HP</label>
+          <input type="text" class="form-control" id="phone" name="phone" value="<%= user.phone %>" readonly>
+        </div>
+        <div class="mb-3">
+          <label for="nim" class="form-label">NIM Mahasiswa</label>
+          <input type="text" class="form-control" id="nim" name="nim" value="<%= user.nim %>" readonly>
+        </div>
+        <div class="mb-3">
+          <label for="judul_tugas_akhir" class="form-label">Judul Tugas Akhir</label>
+          <input type="text" class="form-control" id="judul_tugas_akhir" name="judul_tugas_akhir" value="<%= user.judul_tugas_akhir %>" readonly>
+        </div>
+        <div class="mb-3">
+          <label for="nama_dosen" class="form-label">Dosen Pembimbing</label>
+          <input type="text" class="form-control" id="nama_dosen" name="nama_dosen" value="<%= user.nama_dosen %>" readonly>
+        </div>
+        <div class="mb-3">
+          <label for="fakultas" class="form-label">Fakultas</label>
+          <input type="text" class="form-control" id="fakultas" name="fakultas" value="<%= user.fakultas %>" readonly>
+        </div>
+        <div class="mb-3">
+          <label for="jurusan" class="form-label">Jurusan</label>
+          <input type="text" class="form-control" id="jurusan" name="jurusan" value="<%= user.jurusan %>" readonly>
+        </div>
+        <div class="mb-3">
+          <label for="program_studi" class="form-label">Program Studi</label>
+          <input type="text" class="form-control" id="program_studi" name="program_studi" value="<%= user.program_studi %>" readonly>
+        </div>
+        <div class="mb-3">
+          <label for="semester" class="form-label">Semester</label>
+          <input type="text" class="form-control" id="semester" name="semester" value="<%= user.semester %>" readonly>
+        </div>
+        <a href="/mahasiswa/profil-edit/<%= user.id %>"><button class="btn btn-success btn-lg back">Edit Profil</button></a>
       </div>
     </div>
+    <script>
+      function success(event) {
+        event.preventDefault(); 
+        Swal.fire({
+          title: "Good job!",
+          text: "Data saved",
+          icon: "success"
+        }).then(function() {
+          event.target.submit(); 
+        }).catch((error) => console.log(error));
+        return false; 
+      }
+    </script>
 
     <%- include('../partials/footer'); -%>
   </body>

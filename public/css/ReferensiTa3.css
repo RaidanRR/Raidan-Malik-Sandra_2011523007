@@ -1,0 +1,441 @@
+.referensi-ta-3 .rectangle-36 {
+  border-radius: 25px 25px 0 0;
+  background: #D9D9D9;
+  position: absolute;
+  left: 79px;
+  top: 307px;
+  right: 63px;
+  height: 84px;
+}
+.referensi-ta-3 .container {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 48px;
+  color: #000000;
+}
+.referensi-ta-3 .container-4 {
+  border-radius: 37.5px;
+  background: #D9D9D9;
+  position: relative;
+  margin-right: 52px;
+  display: flex;
+  padding: 3px 0.6px 0 0;
+  width: 75px;
+  box-sizing: border-box;
+}
+.referensi-ta-3 .angkatan-20-xx {
+  margin: 15px 0 12px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 32px;
+  color: #000000;
+}
+.referensi-ta-3 .container-16 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.referensi-ta-3 .desain-tanpa-judul-381 {
+  background: url('assets/images/DesainTanpaJudul381.png') 50% / cover no-repeat;
+  margin: 3px 0 7px 0;
+  width: 65px;
+  height: 65px;
+}
+.referensi-ta-3 .container-19 {
+  margin: 0 80px 32px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1244px;
+  box-sizing: border-box;
+}
+.referensi-ta-3 .line-15 {
+  background: rgba(0, 0, 0, 0.5);
+  margin: 0 12px 31px 12px;
+  width: 1300px;
+  height: 1px;
+}
+.referensi-ta-3 .cari-berdasarkan-judul-ta-terkait {
+  margin: 18px 16.5px 16px 0;
+  display: inline-block;
+  width: 1085.5px;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 22px;
+  color: rgba(80, 80, 80, 0.65);
+}
+.referensi-ta-3 .line-22 {
+  background: rgba(0, 0, 0, 0.5);
+  margin-right: 63px;
+  width: 1px;
+  height: 67px;
+}
+.referensi-ta-3 .container-14 {
+  width: 39px;
+  height: 1px;
+}
+.referensi-ta-3 .container-8 {
+  border-radius: 25px;
+  background: #D9D9D9;
+  position: relative;
+  margin: 10px 0 7px 0;
+  display: flex;
+  padding: 9px 5px 0 6px;
+  width: 50px;
+  height: 50px;
+  box-sizing: border-box;
+}
+.referensi-ta-3 .container-10 {
+  display: flex;
+  flex-direction: row;
+  width: 114px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.referensi-ta-3 .container-12 {
+  border-radius: 50px;
+  border: 1px solid rgba(0, 0, 0, 0.5);
+  position: relative;
+  margin: 0 0 29px 24px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 0px 62px 2px 22px;
+  width: 1300px;
+  box-sizing: border-box;
+}
+.referensi-ta-3 .line-27 {
+  background: rgba(80, 80, 80, 0.5);
+  transform: rotate(-89.871deg);
+  margin-left: 883.5px;
+  width: 1.5px;
+  height: 1px;
+}
+.referensi-ta-3 .line-29 {
+  background: rgba(80, 80, 80, 0.5);
+  transform: rotate(-90.086deg);
+  width: 1px;
+  height: 1px;
+}
+.referensi-ta-3 .line-26 {
+  background: rgba(80, 80, 80, 0.5);
+  transform: rotate(-90.086deg);
+  width: 1px;
+  height: 1px;
+}
+.referensi-ta-3 .container-1 {
+  margin: 0 227px 3px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 655px;
+  box-sizing: border-box;
+}
+.referensi-ta-3 .line-25 {
+  background: rgba(80, 80, 80, 0.5);
+  transform: rotate(-90.087deg);
+  margin: 0 95px 6px 0;
+  width: 1px;
+  height: 1px;
+}
+.referensi-ta-3 .nim {
+  margin: 18px 16.5px 15px 0;
+  display: inline-block;
+  width: 211.5px;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 22px;
+  color: #000000;
+}
+.referensi-ta-3 .nama-mahasiswa-2 {
+  margin: 18px 0 15px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 22px;
+  color: #000000;
+}
+.referensi-ta-3 .judul-ta {
+  margin: 18px 0 15px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 22px;
+  color: #000000;
+}
+.referensi-ta-3 .dosen-pembimbing {
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 22px;
+  color: #000000;
+}
+.referensi-ta-3 .aksi {
+  margin: 18px 0 15px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 22px;
+  color: #000000;
+}
+.referensi-ta-3 .container-3 {
+  margin: 0 53.3px 50px 59px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1129.7px;
+  box-sizing: border-box;
+}
+.referensi-ta-3 .xxxxxxxxxxx {
+  margin: 26px 16.5px 29px 0;
+  display: inline-block;
+  width: 260.5px;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 22px;
+  color: #000000;
+}
+.referensi-ta-3 .nama-mahasiswa {
+  margin: 26px 0 29px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 22px;
+  color: #000000;
+}
+.referensi-ta-3 .xxxxxxxxxxx-2 {
+  margin: 17px 83.3px 29px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 28px;
+  color: #000000;
+}
+.referensi-ta-3 .xxxxxxxxxxxx {
+  margin: 21px 63px 25px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 28px;
+  color: #000000;
+}
+.referensi-ta-3 .baca-dokumen {
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 20px;
+  color: #FFFFFF;
+}
+.referensi-ta-3 .container {
+  border-radius: 20px;
+  background: #C3C0C0;
+  position: relative;
+  display: flex;
+  padding: 12px 0 16px 1px;
+  width: 154px;
+  box-sizing: border-box;
+}
+.referensi-ta-3 .container-13 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.referensi-ta-3 .container-11 {
+  margin: 0 1px 95px 5px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1236px;
+  box-sizing: border-box;
+}
+.referensi-ta-3 .xxxxxxxxxxx-1 {
+  margin: 31px 16.5px 24px 0;
+  display: inline-block;
+  width: 266.5px;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 22px;
+  color: #000000;
+}
+.referensi-ta-3 .nama-mahasiswa-1 {
+  margin: 31px 0 24px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 22px;
+  color: #000000;
+}
+.referensi-ta-3 .xxxxxxxxxxxx-1 {
+  margin: 31px 68.4px 24px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 22px;
+  color: #000000;
+}
+.referensi-ta-3 .xxxxxxxxxxxxx {
+  margin: 31px 57.3px 15px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 28px;
+  color: #000000;
+}
+.referensi-ta-3 .baca-dokumen-1 {
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 20px;
+  color: #FFFFFF;
+}
+.referensi-ta-3 .container-7 {
+  border-radius: 20px;
+  background: #C3C0C0;
+  position: relative;
+  display: flex;
+  padding: 12px 5px 16px 0;
+  width: 154px;
+  box-sizing: border-box;
+}
+.referensi-ta-3 .container-17 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.referensi-ta-3 .container-5 {
+  margin-bottom: 121px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1242px;
+  box-sizing: border-box;
+}
+.referensi-ta-3 .xxxxxxxxxxx-3 {
+  margin: 24px 16.5px 31px 0;
+  display: inline-block;
+  width: 266.5px;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 22px;
+  color: #000000;
+}
+.referensi-ta-3 .nama-mahasiswa-3 {
+  margin: 24px 0 31px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 22px;
+  color: #000000;
+}
+.referensi-ta-3 .xxxxxxxxxxxx-2 {
+  margin: 24px 68.4px 31px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 22px;
+  color: #000000;
+}
+.referensi-ta-3 .xxxxxxxxxxxxx-1 {
+  margin: 19px 57.3px 27px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 28px;
+  color: #000000;
+}
+.referensi-ta-3 .baca-dokumen-2 {
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 20px;
+  color: #FFFFFF;
+}
+.referensi-ta-3 .container-15 {
+  border-radius: 20px;
+  background: #C3C0C0;
+  position: relative;
+  display: flex;
+  padding: 12px 5px 16px 0;
+  width: 154px;
+  box-sizing: border-box;
+}
+.referensi-ta-3 .container-2 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.referensi-ta-3 .container-9 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1242px;
+  box-sizing: border-box;
+}
+.referensi-ta-3 .container-18 {
+  border-radius: 25px;
+  border: 1px solid rgba(0, 0, 0, 0.5);
+  position: relative;
+  margin: 0 3px 0 21px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0px 33px 59px 25px;
+  width: 1300px;
+  box-sizing: border-box;
+}
+.referensi-ta-3 .container-6 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 1324px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.referensi-ta-3 .line-28 {
+  background: rgba(0, 0, 0, 0.5);
+  position: absolute;
+  left: 78px;
+  right: 64px;
+  bottom: 446px;
+  height: 1px;
+}
+.referensi-ta-3 .line-30 {
+  background: rgba(0, 0, 0, 0.5);
+  position: absolute;
+  left: 78px;
+  right: 64px;
+  bottom: 258px;
+  height: 1px;
+}
+.referensi-ta-3 {
+  background: #FFFFFF;
+  display: flex;
+  padding: 67px 58px 53px 58px;
+  width: 1440px;
+  box-sizing: border-box;
+}

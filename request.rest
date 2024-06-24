@@ -6,11 +6,11 @@ POST http://localhost:8000/auth/register
 Content-Type: application/json
 
 {
-    "name": "admin",
-    "email" : "admin@unand.ac.id",
+    "name": "raidan1",
+    "email" : "raidan1@unand.ac.id",
     "password" : "12345",
     "confPassword" : "12345",
-    "type": "T"
+    "type": "M"
 }
 
 ###

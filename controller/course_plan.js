@@ -9,7 +9,7 @@ const course_los = require("../models/course_los");
 const course_plan_references = require("../models/course_plan_references");
 const { Op } = require("sequelize");
 
-// const curricula = require("../models/curricula");
+//const curricula = require("../models/curricula");
 
 const getCourses = async (req, res) => {
   try {

@@ -1,4 +1,4 @@
-// import modul
+
 const express = require("express");
 const bodyParser = require("body-parser");
 const cookieParser = require("cookie-parser");
@@ -8,8 +8,10 @@ const methodOverride = require("method-override");
 const cors = require("cors");
 const session = require("express-session");
 const dotenv = require("dotenv");
+const bcrypt = require('bcrypt');
+const User = require('./models/users');
 
-// override with POST having ?_method=DELETE
+
 app.use(methodOverride("_method"));
 
 const mahasiswa = require("./routes/mahasiswa");
@@ -18,7 +20,7 @@ const admin = require("./routes/admin");
 
 const authRouter = require("./routes/auth");
 const { authenticateToken, checkUser } = require("./middleware/verifyToken");
-// const router = require("./routes/index.js");
+
 
 app.use(express.static("public"));
 app.use(express.json());
@@ -35,7 +37,9 @@ app.use("/mahasiswa", mahasiswa);
 app.use("/dosen", dosen);
 app.use("/admin", admin);
 
-//login page mahasiswa
+app.use(express.urlencoded({ extended: true }));
+
+
 app.use(session({
   secret: process.env.SESS_SECRET,
   resave: false,
@@ -51,7 +55,7 @@ app.use(cors({
 
 dotenv.config();
 
-//login page mahasiswa
+
 
 app.get("/", authenticateToken, (req, res) => {
   res.render("home");
@@ -61,18 +65,41 @@ app.get("/about", (req, res) => {
   res.render("about");
 });
 
-// app.get('/admin', adminAuth,  (req, res) => {
-//   model.findAll()
-//   .then(results => {
-//     res.render("admin", {data: results})
-//   });
-// });
+app.post('/mahasiswa/profil-edit/:id', async (req, res) => {
+  const userId = req.params.id;
+  const { currentPassword, password, ...rest } = req.body;
+
+  try {
+    const user = await User.findById(userId);
+
+   
+    if (currentPassword) {
+      const match = await bcrypt.compare(currentPassword, user.password);
+      if (!match) {
+        return res.status(400).send("Password lama tidak cocok");
+      }
+    }
+
+    
+    if (password) {
+      rest.password = await bcrypt.hash(password, 10);
+    }
+
+    await User.findByIdAndUpdate(userId, rest);
+    res.redirect('/some-success-page'); 
+  } catch (error) {
+    res.status(500).send("Terjadi kesalahan");
+  }
+});
+
+
+
 
 app.use("/", (req, res) => {
   res.render("err404.ejs");
 });
 
-//connect dengan port
+
 app.listen(port, () => {
-  console.log(`Server berada port  ${port}`);
+  console.log(`Server berada di port  ${port}`);
 });

@@ -1,0 +1,217 @@
+.referensi-ta-2 .container {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 48px;
+  color: #000000;
+}
+.referensi-ta-2 .container-4 {
+  border-radius: 37.5px;
+  background: #D9D9D9;
+  position: relative;
+  margin-right: 52px;
+  display: flex;
+  padding: 3px 0.6px 0 0;
+  width: 75px;
+  box-sizing: border-box;
+}
+.referensi-ta-2 .sistem-informasi {
+  margin: 15px 0 12px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 32px;
+  color: #000000;
+}
+.referensi-ta-2 .container-7 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.referensi-ta-2 .desain-tanpa-judul-381 {
+  background: url('assets/images/DesainTanpaJudul381.png') 50% / cover no-repeat;
+  margin: 3px 0 7px 0;
+  width: 65px;
+  height: 65px;
+}
+.referensi-ta-2 .container {
+  margin: 0 70px 32px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1244px;
+  box-sizing: border-box;
+}
+.referensi-ta-2 .line-15 {
+  background: rgba(0, 0, 0, 0.5);
+  margin: 0 2px 46px 12px;
+  width: 1300px;
+  height: 1px;
+}
+.referensi-ta-2 .angkatan-20-xx {
+  margin: 14px 21px 6px 0;
+  display: inline-block;
+  width: 894px;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 28px;
+  color: #000000;
+}
+.referensi-ta-2 .lihat-daftar {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 22px;
+  color: #000000;
+}
+.referensi-ta-2 .container-6 {
+  border-radius: 25px;
+  background: rgba(217, 217, 217, 0.5);
+  position: relative;
+  display: flex;
+  padding: 14px 0.9px 15px 0;
+  width: 209px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.referensi-ta-2 .container-1 {
+  border-radius: 25px;
+  border: 1px solid rgba(0, 0, 0, 0.5);
+  position: relative;
+  margin: 0 2px 41px 10px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 45px 61px 44px 117px;
+  width: 1302px;
+  box-sizing: border-box;
+}
+.referensi-ta-2 .angkatan-20-xx-3 {
+  margin: 26px 21px 0 0;
+  display: inline-block;
+  width: 894px;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 28px;
+  color: #000000;
+}
+.referensi-ta-2 .lihat-daftar-3 {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 22px;
+  color: #000000;
+}
+.referensi-ta-2 .container-2 {
+  border-radius: 25px;
+  background: rgba(217, 217, 217, 0.5);
+  position: relative;
+  margin-bottom: 6px;
+  display: flex;
+  padding: 14px 0.9px 15px 0;
+  width: 209px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.referensi-ta-2 .container-8 {
+  border-radius: 25px;
+  border: 1px solid rgba(0, 0, 0, 0.5);
+  position: relative;
+  margin: 0 2px 44px 10px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 45px 61px 38px 117px;
+  width: 1302px;
+  box-sizing: border-box;
+}
+.referensi-ta-2 .angkatan-20-xx-2 {
+  margin: 19px 21px 1px 0;
+  display: inline-block;
+  width: 894px;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 28px;
+  color: #000000;
+}
+.referensi-ta-2 .lihat-daftar-2 {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 22px;
+  color: #000000;
+}
+.referensi-ta-2 .container-9 {
+  border-radius: 25px;
+  background: rgba(217, 217, 217, 0.5);
+  position: relative;
+  display: flex;
+  padding: 14px 0.9px 15px 0;
+  width: 209px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.referensi-ta-2 .container-10 {
+  border-radius: 25px;
+  border: 1px solid rgba(0, 0, 0, 0.5);
+  position: relative;
+  margin: 0 2px 47px 10px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 45px 61px 44px 117px;
+  width: 1302px;
+  box-sizing: border-box;
+}
+.referensi-ta-2 .angkatan-20-xx-1 {
+  margin: 17px 21px 3px 0;
+  display: inline-block;
+  width: 894px;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 700;
+  font-size: 28px;
+  color: #000000;
+}
+.referensi-ta-2 .lihat-daftar-1 {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 22px;
+  color: #000000;
+}
+.referensi-ta-2 .container-3 {
+  border-radius: 25px;
+  background: rgba(217, 217, 217, 0.5);
+  position: relative;
+  display: flex;
+  padding: 14px 0.9px 15px 0;
+  width: 209px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.referensi-ta-2 .container-5 {
+  border-radius: 25px;
+  border: 1px solid rgba(0, 0, 0, 0.5);
+  position: relative;
+  margin-left: 12px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 45px 61px 44px 117px;
+  width: 1302px;
+  box-sizing: border-box;
+}
+.referensi-ta-2 {
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 67px 68px 67px 58px;
+  width: 1440px;
+  box-sizing: border-box;
+}
