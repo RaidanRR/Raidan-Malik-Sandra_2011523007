@@ -65,7 +65,19 @@
             </select>
           </div>
 
-          
+          <script>
+            function success(event) {
+              event.preventDefault(); 
+              Swal.fire({
+                title: "Good job!",
+                text: "Data saved",
+                icon: "success"
+              }).then(function() {
+                event.target.submit(); 
+              }).catch((error) => console.log(error));
+              return false; 
+            }
+          </script>
 
           <button type="submit" class="btn btn-warning btn-lg back">Simpan</button>
         </form>
